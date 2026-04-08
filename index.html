@@ -64,6 +64,17 @@
     }
     .main-nav a:hover { color: #f76c2f; }
     /* Google Translate widget styling */
+    .translate-wrapper {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 4px 10px;
+      cursor: pointer;
+    }
+    .translate-wrapper:hover { border-color: #aaa; }
+    .translate-icon { font-size: 16px; line-height: 1; }
     #google_translate_element { display: inline-block; }
     .goog-te-gadget-simple {
       background: transparent !important;
@@ -850,7 +861,10 @@
         <a href="#expertise">Expertise</a>
         <a href="#pm">Payments Manager</a>
         <a href="#news">News</a>
-        <div id="google_translate_element"></div>
+        <div class="translate-wrapper">
+          <span class="translate-icon">🌐</span>
+          <div id="google_translate_element"></div>
+        </div>
         <a href="#contact">Contact</a>
       </nav>
     </div>
