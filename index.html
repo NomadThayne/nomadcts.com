@@ -921,6 +921,11 @@
   </div>
 
   <script>
+  // Global slider function for onclick handlers
+  function goSlide(n) {
+    if (typeof _goSlide === "function") _goSlide(n);
+  }
+
   document.addEventListener("DOMContentLoaded", function() {
     // ── Hero slider ────────────────────────────────────
     var cur = 0;
@@ -928,7 +933,7 @@
     var dots   = document.querySelectorAll('.slider-dot');
     var timer;
 
-    function goSlide(n) {
+    function _goSlide(n) {
       slides[cur].classList.remove('active');
       dots[cur].classList.remove('active');
       cur = (n + slides.length) % slides.length;
@@ -939,9 +944,9 @@
       bg.offsetHeight;
       bg.style.animation = '';
       clearInterval(timer);
-      timer = setInterval(function(){ goSlide(cur + 1); }, 9000);
+      timer = setInterval(function(){ _goSlide(cur + 1); }, 9000);
     }
-    timer = setInterval(function(){ goSlide(cur + 1); }, 9000);
+    timer = setInterval(function(){ _goSlide(cur + 1); }, 9000);
 
     // ── Mobile nav ─────────────────────────────────────
     document.getElementById('navToggle').addEventListener('click', function() {
