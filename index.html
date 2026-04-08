@@ -1283,22 +1283,48 @@
     });
     // ── News feed ───────────────────────────────────────
     async function fetchFeed(url, source, cssClass, count) {
-      // Use allorigins proxy to fetch and parse RSS feed
-      const proxy = 'https://api.allorigins.win/get?url=' + encodeURIComponent(url);
-      const resp = await fetch(proxy);
-      if (!resp.ok) throw new Error('fetch failed');
-      const data = await resp.json();
-      // Parse XML from the RSS feed
+      // Try multiple CORS proxies in sequence
+      const proxies = [
+        'https://corsproxy.io/?' + encodeURIComponent(url),
+        'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(url),
+        'https://api.allorigins.win/get?url=' + encodeURIComponent(url),
+      ];
+
+      let xml = null;
       const parser = new DOMParser();
-      const xml = parser.parseFromString(data.contents, 'text/xml');
+
+      for (const proxyUrl of proxies) {
+        try {
+          const controller = new AbortController();
+          const timeout = setTimeout(() => controller.abort(), 5000);
+          const resp = await fetch(proxyUrl, { signal: controller.signal });
+          clearTimeout(timeout);
+          if (!resp.ok) continue;
+          let text;
+          // allorigins wraps in JSON, others return raw
+          if (proxyUrl.includes('allorigins')) {
+            const json = await resp.json();
+            text = json.contents;
+          } else {
+            text = await resp.text();
+          }
+          const parsed = parser.parseFromString(text, 'text/xml');
+          const testItems = parsed.querySelectorAll('item');
+          if (testItems.length > 0) { xml = parsed; break; }
+        } catch(e) { continue; }
+      }
+
+      if (!xml) throw new Error('all proxies failed');
+
       const items = Array.from(xml.querySelectorAll('item')).slice(0, count);
       return items.map(item => {
-        const title = item.querySelector('title')?.textContent || '';
-        const link  = item.querySelector('link')?.textContent || 
-                      item.querySelector('guid')?.textContent || '#';
+        const title = item.querySelector('title')?.textContent?.trim() || '';
+        const link  = item.querySelector('link')?.textContent?.trim() ||
+                      item.querySelector('guid')?.textContent?.trim() || '#';
         const pub   = item.querySelector('pubDate')?.textContent || '';
         const desc  = item.querySelector('description')?.textContent || '';
-        const date  = pub ? new Date(pub).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '';
+        const date  = pub ? new Date(pub).toLocaleDateString('en-US',
+                      { month: 'short', day: 'numeric', year: 'numeric' }) : '';
         const clean = desc.replace(/<[^>]+>/g, '').trim().slice(0, 160) + '…';
         return { title, link, date, desc: clean, source, cssClass };
       });
