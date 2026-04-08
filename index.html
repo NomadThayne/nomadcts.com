@@ -651,9 +651,9 @@
     </div>
 
     <div class="slider-dots">
-      <div class="slider-dot active" onclick="goSlide(0)"></div>
-      <div class="slider-dot" onclick="goSlide(1)"></div>
-      <div class="slider-dot" onclick="goSlide(2)"></div>
+      <div class="slider-dot active"></div>
+      <div class="slider-dot"></div>
+      <div class="slider-dot"></div>
     </div>
 
   </section>
@@ -921,19 +921,17 @@
   </div>
 
   <script>
-  // Global slider function for onclick handlers
-  function goSlide(n) {
-    if (typeof _goSlide === "function") _goSlide(n);
-  }
-
   document.addEventListener("DOMContentLoaded", function() {
     // ── Hero slider ────────────────────────────────────
     var cur = 0;
     var slides = document.querySelectorAll('.hero-slide');
     var dots   = document.querySelectorAll('.slider-dot');
     var timer;
+    dots.forEach(function(dot, i) {
+      dot.addEventListener('click', function() { goSlide(i); });
+    });
 
-    function _goSlide(n) {
+    function goSlide(n) {
       slides[cur].classList.remove('active');
       dots[cur].classList.remove('active');
       cur = (n + slides.length) % slides.length;
@@ -944,9 +942,9 @@
       bg.offsetHeight;
       bg.style.animation = '';
       clearInterval(timer);
-      timer = setInterval(function(){ _goSlide(cur + 1); }, 9000);
+      timer = setInterval(function(){ goSlide(cur + 1); }, 9000);
     }
-    timer = setInterval(function(){ _goSlide(cur + 1); }, 9000);
+    timer = setInterval(function(){ goSlide(cur + 1); }, 9000);
 
     // ── Mobile nav ─────────────────────────────────────
     document.getElementById('navToggle').addEventListener('click', function() {
