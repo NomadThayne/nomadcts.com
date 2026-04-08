@@ -1283,19 +1283,25 @@
     });
     // ── News feed ───────────────────────────────────────
     async function fetchFeed(url, source, cssClass, count) {
-      const proxy = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(url) + '&count=' + count;
+      // Use allorigins proxy to fetch and parse RSS feed
+      const proxy = 'https://api.allorigins.win/get?url=' + encodeURIComponent(url);
       const resp = await fetch(proxy);
       if (!resp.ok) throw new Error('fetch failed');
       const data = await resp.json();
-      if (data.status !== 'ok') throw new Error('feed error');
-      return data.items.map(item => ({
-        title:   item.title,
-        link:    item.link,
-        date:    new Date(item.pubDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }),
-        desc:    item.description ? item.description.replace(/<[^>]+>/g, '').slice(0, 160) + '…' : '',
-        source:  source,
-        cssClass: cssClass
-      }));
+      // Parse XML from the RSS feed
+      const parser = new DOMParser();
+      const xml = parser.parseFromString(data.contents, 'text/xml');
+      const items = Array.from(xml.querySelectorAll('item')).slice(0, count);
+      return items.map(item => {
+        const title = item.querySelector('title')?.textContent || '';
+        const link  = item.querySelector('link')?.textContent || 
+                      item.querySelector('guid')?.textContent || '#';
+        const pub   = item.querySelector('pubDate')?.textContent || '';
+        const desc  = item.querySelector('description')?.textContent || '';
+        const date  = pub ? new Date(pub).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '';
+        const clean = desc.replace(/<[^>]+>/g, '').trim().slice(0, 160) + '…';
+        return { title, link, date, desc: clean, source, cssClass };
+      });
     }
 
     async function loadNews() {
