@@ -1,6 +1,12 @@
-import feedparser
 import json
+import re
+import feedparser
 from datetime import datetime, timezone
+
+# Set a browser-like User-Agent so feeds don't block us
+feedparser.USER_AGENT = (
+    "Mozilla/5.0 (compatible; NomadCTS-NewsBot/1.0; +https://nomadcts.com)"
+)
 
 FEEDS = [
     {
@@ -18,7 +24,6 @@ FEEDS = [
 ]
 
 def parse_date(entry):
-    """Return a nicely formatted date string from a feed entry."""
     for attr in ("published_parsed", "updated_parsed"):
         t = getattr(entry, attr, None)
         if t:
@@ -30,8 +35,6 @@ def parse_date(entry):
     return ""
 
 def clean_html(text):
-    """Strip HTML tags from a string."""
-    import re
     return re.sub(r"<[^>]+>", "", text or "").strip()
 
 articles = []
@@ -40,6 +43,9 @@ for feed_cfg in FEEDS:
     try:
         feed = feedparser.parse(feed_cfg["url"])
         entries = feed.entries[: feed_cfg["count"]]
+        if not entries:
+            print(f"  {feed_cfg['source']}: no entries — feed may be blocking")
+            continue
         for entry in entries:
             title = clean_html(entry.get("title", ""))
             link  = entry.get("link", "#")
@@ -61,7 +67,7 @@ for feed_cfg in FEEDS:
     except Exception as e:
         print(f"  {feed_cfg['source']}: ERROR — {e}")
 
-# Interleave: PYMNTS, Finextra, PYMNTS, Finextra ...
+# Interleave sources
 pymnts   = [a for a in articles if a["source"] == "PYMNTS"]
 finextra = [a for a in articles if a["source"] == "Finextra"]
 interleaved = []
@@ -70,7 +76,7 @@ for i in range(max(len(pymnts), len(finextra))):
     if i < len(finextra): interleaved.append(finextra[i])
 
 output = {
-    "updated": datetime.now(timezone.utc).strftime("%b %-d, %Y at %H:%M UTC"),
+    "updated":  datetime.now(timezone.utc).strftime("%b %-d, %Y at %H:%M UTC"),
     "articles": interleaved,
 }
 
