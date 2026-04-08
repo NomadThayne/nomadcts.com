@@ -642,6 +642,24 @@
     .form-field input:focus,
     .form-field textarea:focus { outline: none; border-color: #4385f5; }
     .form-field textarea { height: 100px; resize: vertical; }
+    .form-field select {
+      width: 100%;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 10px 14px;
+      font-size: 14px;
+      font-family: 'Roboto', sans-serif;
+      color: #333;
+      background: #fff;
+      cursor: pointer;
+      transition: border-color 0.2s;
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%23999' stroke-width='2'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 14px center;
+    }
+    .form-field select:focus { outline: none; border-color: #4385f5; }
+    .form-field select option[disabled] { color: #aaa; }
     .form-submit {
       background: #4385f5;
       color: #fff;
@@ -992,6 +1010,22 @@
         <div class="form-field">
           <label for="cf-phone">Phone Number (optional)</label>
           <input type="text" id="cf-phone" name="phone">
+        </div>
+        <div class="form-field">
+          <label for="cf-website">Company Website (optional)</label>
+          <input type="url" id="cf-website" name="website" placeholder="https://yourcompany.com">
+        </div>
+        <div class="form-field">
+          <label for="cf-volume">Estimated Monthly Transaction Volume (optional)</label>
+          <select id="cf-volume" name="monthly_volume">
+            <option value="" disabled selected>Select a range</option>
+            <option value="Under $10K">Under $10K</option>
+            <option value="$10K - $50K">$10K – $50K</option>
+            <option value="$50K - $250K">$50K – $250K</option>
+            <option value="$250K - $1M">$250K – $1M</option>
+            <option value="$1M - $5M">$1M – $5M</option>
+            <option value="Over $5M">Over $5M</option>
+          </select>
         </div>
         <div class="form-field">
           <label for="cf-msg">Message <span style="color:#e00">*</span></label>
