@@ -746,9 +746,8 @@
       z-index: 9999;
       align-items: flex-start;
       justify-content: center;
-      padding-top: 80px;
-      padding-left: 16px;
-      padding-right: 16px;
+      padding: 40px 16px;
+      overflow-y: auto;
     }
     .popup-overlay.open { display: flex; }
     .popup-box {
@@ -759,6 +758,10 @@
       padding: 36px 40px;
       position: relative;
       animation: popIn 0.3s ease;
+      margin: auto;
+    }
+    @media (max-width: 660px) {
+      .popup-box { padding: 28px 20px; }
     }
     @keyframes popIn {
       from { opacity: 0; transform: translateY(-20px); }
