@@ -1,51 +1,51 @@
 {
-  "updated": "Apr 16, 2026 at 11:40 UTC",
+  "updated": "Apr 17, 2026 at 11:15 UTC",
   "articles": [
     {
-      "title": "Issuers Face a New Reality as Credit Goes Real Time",
-      "link": "https://www.pymnts.com/consumer-finance/2026/issuers-face-a-new-reality-as-credit-goes-real-time/",
-      "date": "Apr 16, 2026",
-      "desc": "Watch more: Need to Know With Paymentology’s Stephen Bowe  Credit demand may be rising, but the more pressing issue for issuers is whether their technology…",
+      "title": "Uber Eats Lets Customers Return Their Retail Purchases",
+      "link": "https://www.pymnts.com/news/delivery/2026/uber-eats-lets-customers-return-their-retail-purchases/",
+      "date": "Apr 17, 2026",
+      "desc": "Uber Eats has begun offering returns on retail items purchased on its app.  Calling it a first for the on-demand delivery space, the company announced Friday…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "UK banks to to gain access to Anthropic cybersecurity model within the nex week",
-      "link": "https://www.finextra.com/newsarticle/47589/uk-banks-to-to-gain-access-to-anthropic-cybersecurity-model-within-the-nex-week?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Apr 16, 2026",
-      "desc": "Anthropic is to release its Mythos cybersecurity product to top UK financial institutions in the next week.",
+      "title": "NatWest Group expands free investment-focused financial guidance programme",
+      "link": "https://www.finextra.com/newsarticle/47596/natwest-group-expands-free-investment-focused-financial-guidance-programme?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Apr 17, 2026",
+      "desc": "NatWest Group is expanding its investment-focused Financial Foundations programme to 50,000 people in UK workplaces and community groups.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "How Payments Gaps Are Limiting Deposit Growth at Community Banks",
-      "link": "https://www.pymnts.com/money-mobility/2026/how-payments-gaps-are-limiting-deposit-growth-at-community-banks/",
-      "date": "Apr 16, 2026",
-      "desc": "Community banks have made meaningful progress in digitizing account opening, but the competitive battleground for deposits is shifting. Opening and even…",
+      "title": "Financial Officials Sound Alarm About Anthropic’s Banking Risk",
+      "link": "https://www.pymnts.com/news/2026/financial-officials-sound-alarm-about-anthropics-banking-risk/",
+      "date": "Apr 17, 2026",
+      "desc": "A new warning from top financial officials is pushing AI risk to the center of the global banking conversation. At this week’s IMF and World Bank spring…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "ABN Amro opens access to crypto investments",
-      "link": "https://www.finextra.com/newsarticle/47588/abn-amro-opens-access-to-crypto-investments?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Apr 16, 2026",
-      "desc": "ABN Amro is to give customers indirect exposure to cryptocurrencies through the introduction Crypto Exchange Traded Products (ETPs) and Capital Protected Notes…",
+      "title": "Tether launches stablecoin wallet",
+      "link": "https://www.finextra.com/newsarticle/47595/tether-launches-stablecoin-wallet?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Apr 17, 2026",
+      "desc": "Tether launched a stablecoin wallet on Tuesday, allowing users to transfer digital dollars, tokenised gold, and bitcoin across multiple blockchains.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "AI May Run Payments but Humans Still Own the Risk",
-      "link": "https://www.pymnts.com/opinion/2026/ai-may-run-payments-but-humans-still-own-the-risk/",
-      "date": "Apr 16, 2026",
-      "desc": "Confidence in AI depends on strong governance and explainability, WEX Chief Risk and Compliance Officer Annie Drew writes in a new PYMNTS eBook, “AI Runs…",
+      "title": "71% of Billion-Dollar Firms Face Agent Identity Threats",
+      "link": "https://www.pymnts.com/digital-identity/2026/71percent-of-billion-dollar-firms-face-agent-identity-threats/",
+      "date": "Apr 17, 2026",
+      "desc": "Agent-driven identity threats are becoming a defining challenge for enterprises as they scale revenue and expand across markets, increasing fraud risk and…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Italy's UniCredit invests €4 million in BlockInvest",
-      "link": "https://www.finextra.com/newsarticle/47584/italys-unicredit-invests-4-million-in-blockinvest?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Apr 16, 2026",
-      "desc": "Italy's UniCredit has invested €4 million to acquire a 16% stake in BlockInvest, furthering its ambitions to export tokenized financial assets across the…",
+      "title": "FCA and Turing Institute develop synthetic dataset to combat money laundering",
+      "link": "https://www.finextra.com/newsarticle/47594/fca-and-turing-institute-develop-synthetic-dataset-to-combat-money-laundering?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Apr 17, 2026",
+      "desc": "The UK Financial Conduct Authority (FCA) has developed synthetic dataset in a project to foster innovation in money laundering detection.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
