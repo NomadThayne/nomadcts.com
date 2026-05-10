@@ -1,6 +1,14 @@
 {
-  "updated": "May 9, 2026 at 09:06 UTC",
+  "updated": "May 10, 2026 at 09:20 UTC",
   "articles": [
+    {
+      "title": "Americans Make New Technology a Daily Habit at Record Speed",
+      "link": "https://www.pymnts.com/artificial-intelligence-2/2026/americans-make-new-technology-a-daily-habit-at-record-speed/",
+      "date": "May 10, 2026",
+      "desc": "Cue the “2001: A Space Odyssey” theme: Human lives have always been shaped by new technology. You can track it (pardon the pun) from railroads to the internet…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
     {
       "title": "Chess Learns to Live With Its Robot Overlords",
       "link": "https://www.pymnts.com/news/artificial-intelligence/2026/chess-learns-live-with-robot-overlords/",
@@ -14,14 +22,6 @@
       "link": "https://www.pymnts.com/news/regulation/2026/sec-chairman-urges-clear-rules-for-on-chain-trading/",
       "date": "May 9, 2026",
       "desc": "Securities and Exchange Commission (SEC) Chairman Paul S. Atkins said Friday (May 8) that he believes the SEC must provide greater clarity around on-chain…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "AI Finally Solves the Food Tracking Problem Wearables Ignored",
-      "link": "https://www.pymnts.com/artificial-intelligence-2/2026/ai-finally-solves-the-food-tracking-problem-wearables-ignored/",
-      "date": "May 8, 2026",
-      "desc": "Wearables track sleep, heart rate and recovery in real time. Logging a meal still means searching a database, estimating a portion and typing it in by hand.…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     }
