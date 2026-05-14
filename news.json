@@ -1,29 +1,53 @@
 {
-  "updated": "May 13, 2026 at 10:11 UTC",
+  "updated": "May 14, 2026 at 10:04 UTC",
   "articles": [
     {
-      "title": "AI Shopping Makes Context the New Payments Currency",
-      "link": "https://www.pymnts.com/digital-payments/2026/ai-shopping-makes-context-the-new-payments-currency/",
-      "date": "May 13, 2026",
-      "desc": "Payments are no longer defined by moving money alone. They are defined by the quality, speed and intelligence of the data surrounding each transaction.  A new…",
+      "title": "Why the DIY KYC Model Is Facing a Fraud Reality Check",
+      "link": "https://www.pymnts.com/digital-identity/2026/why-the-diy-kyc-model-is-facing-a-fraud-reality-check/",
+      "date": "May 14, 2026",
+      "desc": "A collaboration between PYMNTS Intelligence and Trulioo, “Built or Bought: How KYC/KYB Ownership Shapes Risk, Cost and Growth” examines how companies’ choices…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "How Digitally Fluent Small Businesses Are Reshaping Main Street",
-      "link": "https://www.pymnts.com/smbs/2026/how-digitally-fluent-small-businesses-are-reshaping-main-street/",
-      "date": "May 13, 2026",
-      "desc": "Four years after the pandemic pushed millions of small businesses into emergency digital adoption, a new reality is taking shape across Main Street. The…",
+      "title": "Revolut primed for wealth management push after FCA approval",
+      "link": "https://www.finextra.com/newsarticle/47752/revolut-primed-for-wealth-management-push-after-fca-approval?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "May 14, 2026",
+      "desc": "Challenger bank Revolut is set to expand its investment services in the UK after securing a series of permissions from the Financial Conduct Authority (FCA).",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "AI Shopping Agents Put New Pressure on Payments Companies",
+      "link": "https://www.pymnts.com/artificial-intelligence-2/2026/ai-shopping-agents-put-new-pressure-on-payments-companies/",
+      "date": "May 14, 2026",
+      "desc": "Delegation is the name of the game for the next phase of digital commerce.  New PYMNTS Intelligence research in the April 2026 Payments Innovation…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "PYMNTS Summer School Returns to Decode What’s Next in Payments",
-      "link": "https://www.pymnts.com/news/payments-innovation/2026/pymnts-summer-school-returns-to-decode-whats-next-in-payments/",
-      "date": "May 13, 2026",
-      "desc": "Cue the July playlist and grab an iced tea. PYMNTS has announced it will convene the second straight year of Summer School 2026, a July virtual event series…",
+      "title": "US banks hurry to patch vulnerabilities uncovered by Mythos",
+      "link": "https://www.finextra.com/newsarticle/47748/us-banks-hurry-to-patch-vulnerabilities-uncovered-by-mythos?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "May 14, 2026",
+      "desc": "US banks have been scrambling to fix IT issues uncovered by Anthropic's Mythos AI tool, according to Reuters.",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "Issuers Chase Top of Wallet Through Better Apps",
+      "link": "https://www.pymnts.com/credit-cards/2026/issuers-chase-top-of-wallet-through-better-apps/",
+      "date": "May 14, 2026",
+      "desc": "As credit card spending remains resilient across many consumer segments, issuers are confronting a more nuanced contest over where that spending ultimately…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
+    },
+    {
+      "title": "Bunq applies for Mexican banking license",
+      "link": "https://www.finextra.com/newsarticle/47749/bunq-applies-for-mexican-banking-license?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "May 14, 2026",
+      "desc": "Bunq, the European neobank for \"global citizens\", has applied for a Mexican banking license.",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
     }
   ]
 }
