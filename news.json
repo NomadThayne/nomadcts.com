@@ -1,51 +1,51 @@
 {
-  "updated": "Jun 2, 2026 at 11:55 UTC",
+  "updated": "Jun 3, 2026 at 12:28 UTC",
   "articles": [
     {
-      "title": "MoneyGram Debuts MGUSD Stablecoin to Expand Blockchain Payments",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/moneygram-debuts-mgusd-stablecoin-to-expand-blockchain-payments/",
-      "date": "Jun 2, 2026",
-      "desc": "MoneyGram has launched its own stablecoin as it builds its blockchain payments infrastructure.   The native U.S. dollar coin, MGUSD, is designed less for…",
+      "title": "LendingClub Leaves NYSE For Nasdaq to Mark Banking Rebrand",
+      "link": "https://www.pymnts.com/news/digital-banking/2026/lendingclub-leaves-nyse-for-nasdaq-to-mark-banking-rebrand/",
+      "date": "Jun 3, 2026",
+      "desc": "LendingClub is moving its stock market listing as it prepares for a banking rebrand.  The online-lender-turned-full-service bank announced Tuesday (June 2)…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "UK Payments Initiative launches to challenge Visa and Mastercard stranglehold",
-      "link": "https://www.finextra.com/newsarticle/47842/uk-payments-initiative-launches-to-challenge-visa-and-mastercard-stranglehold?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jun 2, 2026",
-      "desc": "The UK Payments Initiative, a new company formed with the backing of the UK's biggest banks, has gone live, with the aim of undermining the dominance of US…",
+      "title": "ING expands Wero payments to online shopping in Germany",
+      "link": "https://www.finextra.com/newsarticle/47852/ing-expands-wero-payments-to-online-shopping-in-germany?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jun 3, 2026",
+      "desc": "Dutch bank ING is to expand support for the Wero payments scheme to include online payments for its 10 million customers in Germany.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Fiserv Co-President Dhivya Suryadevara Says AI Could Be Banks’ Shortcut to Modernization",
-      "link": "https://www.pymnts.com/news/banking/2026/fiserv-co-president-dhivya-suryadevara-says-ai-could-be-banks-shortcut-to-modernization/",
-      "date": "Jun 2, 2026",
-      "desc": "Banks spent years treating core modernization as a lengthy infrastructure project. Dhivya Suryadevara believes artificial intelligence may alter that…",
+      "title": "AI Turns Payment Choice Into a Real-Time Contest",
+      "link": "https://www.pymnts.com/news/loyalty-and-rewards-news/2026/ai-turns-payment-choice-into-a-real-time-contest/",
+      "date": "Jun 3, 2026",
+      "desc": "Watch more: Winning the Next Transaction: How AI Helps Build Loyalty in Payments  Loyalty used to be a relatively simple fight for spend primacy. Issuers…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "KBank and Ant International turn to JPMorgan's Kinexys for real-time cross-border USD",
-      "link": "https://www.finextra.com/newsarticle/47841/kbank-and-ant-international-turn-to-jpmorgans-kinexys-for-real-time-cross-border-usd?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jun 2, 2026",
-      "desc": "Kasikornbank has signed an MoU with Ant International to deploy blockchain rails for cross-border US Dollar transactions.",
+      "title": "Mastercard rolls out support for stablecoin settlement",
+      "link": "https://www.finextra.com/newsarticle/47851/mastercard-rolls-out-support-for-stablecoin-settlement?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jun 3, 2026",
+      "desc": "Mastercard is rolling out settlement support for a range of US stablecoins operating across multiple blockchain platforms.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Huntington Bank Joins Push to Make Big Payments More Resilient",
-      "link": "https://www.pymnts.com/news/payments-innovation/2026/huntington-bank-joins-push-to-make-big-payments-more-resilient/",
-      "date": "Jun 2, 2026",
-      "desc": "For years, payment infrastructure was treated as plumbing: necessary and expensive. But increasingly, financial institutions are approaching it differently,…",
+      "title": "79% of Middle Market Firms Plan Embedded Finance Upgrades Within a Year",
+      "link": "https://www.pymnts.com/news/payments-innovation/2026/79percent-middle-market-firms-plan-embedded-finance-upgrades-within-a-year/",
+      "date": "Jun 3, 2026",
+      "desc": "Embedded finance is no longer a question of whether companies should offer financial services. The question is how they should build them.  The PYMNTS…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "OpenAI gives UK banks access to cybersecurity model",
-      "link": "https://www.finextra.com/newsarticle/47838/openai-gives-uk-banks-access-to-cybersecurity-model?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jun 2, 2026",
-      "desc": "OpenAI has offered the UK's biggest banks access to its new cybersecurity AI model. The decision contrasts with the approach taken by rival Anthropic, which…",
+      "title": "OpenFX to acquire Amsterdam-based payments house Embed",
+      "link": "https://www.finextra.com/newsarticle/47850/openfx-to-acquire-amsterdam-based-payments-house-embed?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jun 3, 2026",
+      "desc": "Foreign exchange infrastructure company OpenFX is to acquire Dutch payment processor Embed, marking its first regulated presence in the European Economic Area…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
