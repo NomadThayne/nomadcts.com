@@ -1,51 +1,27 @@
 {
-  "updated": "Jun 12, 2026 at 11:32 UTC",
+  "updated": "Jun 13, 2026 at 10:21 UTC",
   "articles": [
     {
-      "title": "Square Financial Services Launches High-Yield Savings to Draw Seller Deposits",
-      "link": "https://www.pymnts.com/digital-payments/2026/square-financial-services-launches-high-yield-savings-to-draw-seller-deposits/",
+      "title": "Appeals court upholds Bankman-Fried's conviction",
+      "link": "https://www.finextra.com/newsarticle/47915/appeals-court-upholds-bankman-frieds-conviction?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Jun 12, 2026",
-      "desc": "Square Financial Services (SFS), a wholly owned subsidiary of Block, has launched a deposit tier that pays a higher APY to Square sellers who maintain a daily…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "Barclays to acquire GoHenry, expand youth financial education offering in UK",
-      "link": "https://www.finextra.com/newsarticle/47909/barclays-to-acquire-gohenry-expand-youth-financial-education-offering-in-uk?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jun 12, 2026",
-      "desc": "Barclays has agreed to acquire UK-based fintech GoHenry from Acorns as demand for early financial education and digital-first banking experiences continues to…",
+      "desc": "A US federal appeals court has upheld FTX co-founder Sam Bankman-Fried's conviction, finding that the trial that led to his 25-year prison term was not unfair.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Barclays Acquires GoHenry to Build Lifetime Banking Relationships",
-      "link": "https://www.pymnts.com/acquisitions/2026/barclays-acquires-gohenry-to-build-lifetime-banking-relationships/",
+      "title": "Zelle heads to India; preps stablecoin for global expansion",
+      "link": "https://www.finextra.com/newsarticle/47912/zelle-heads-to-india-preps-stablecoin-for-global-expansion?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Jun 12, 2026",
-      "desc": "Barclays is buying GoHenry, the U.K. money management platform for children ages 6 to 18, in a deal that positions the bank to capture customers before they…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "SpaceX IPO: UK retail investors boost account funding by 27%, TrueLayer data shows",
-      "link": "https://www.finextra.com/newsarticle/47908/spacex-ipo-uk-retail-investors-boost-account-funding-by-27-truelayer-data-shows?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jun 12, 2026",
-      "desc": "TrueLayer has recorded a sharp rise in Pay by Bank transactions into trading and investment accounts ahead of the SpaceX listing, expected to be one of the…",
+      "desc": "US bank-owned P2P payments service Zelle is going global, with users soon getting the ability to send money to friends and family in India.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "FinTechs Use Cross-Border Payments to Court Small Businesses",
-      "link": "https://www.pymnts.com/news/cross-border-commerce/cross-border-payments/2026/fintechs-use-cross-border-payments-to-court-small-businesses/",
+      "title": "KPMG report contained AI hallucinations about AI use at UBS - FT",
+      "link": "https://www.finextra.com/newsarticle/47911/kpmg-report-contained-ai-hallucinations-about-ai-use-at-ubs---ft?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Jun 12, 2026",
-      "desc": "Watch more: Need to Know With Mastercard’s Pratik Khowala  There was a time when small businesses rarely sold outside their neighborhoods, much less their home…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "EBAday 2026: EBA CLEARING and Swift CEOs to outline the future of payments",
-      "link": "https://www.finextra.com/newsarticle/47907/ebaday-2026-eba-clearing-and-swift-ceos-to-outline-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jun 12, 2026",
-      "desc": "EBAday will host a high-level CEO fireside chat featuring Hays Littlejohn, CEO of EBA CLEARING, and Javier Pérez-Tasso, CEO of Swift, on 16 June at the Bella…",
+      "desc": "KPMG has been forced to pull a report on artificial intelligence adoption after it emerged that claims about the technology's use by some organisations,…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
