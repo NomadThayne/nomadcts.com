@@ -1,6 +1,14 @@
 {
-  "updated": "Jun 13, 2026 at 10:21 UTC",
+  "updated": "Jun 14, 2026 at 10:43 UTC",
   "articles": [
+    {
+      "title": "Prime Day Is Now a Weather System",
+      "link": "https://www.pymnts.com/news/retail/2026/prime-day-is-now-weather-system/",
+      "date": "Jun 13, 2026",
+      "desc": "Summer in the United States has acquired a new seasonal ritual.  Apply sunscreen, overpay for iced coffee, and receive 47 alerts that a cordless vacuum has…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
     {
       "title": "Appeals court upholds Bankman-Fried's conviction",
       "link": "https://www.finextra.com/newsarticle/47915/appeals-court-upholds-bankman-frieds-conviction?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -10,12 +18,28 @@
       "cssClass": "source-finextra"
     },
     {
+      "title": "Easing Gas Prices Lift Consumer Sentiment From All-Time Low",
+      "link": "https://www.pymnts.com/data/consumer-insights/2026/easing-gas-prices-lift-consumer-sentiment-from-all-time-low/",
+      "date": "Jun 12, 2026",
+      "desc": "Consumer sentiment has ticked up as gas prices eased, according to preliminary results for June from the University of Michigan’s Surveys of Consumers.  The…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
       "title": "Zelle heads to India; preps stablecoin for global expansion",
       "link": "https://www.finextra.com/newsarticle/47912/zelle-heads-to-india-preps-stablecoin-for-global-expansion?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Jun 12, 2026",
       "desc": "US bank-owned P2P payments service Zelle is going global, with users soon getting the ability to send money to friends and family in India.",
       "source": "Finextra",
       "cssClass": "source-finextra"
+    },
+    {
+      "title": "Target Uses NBCUniversal’s Shoppable TV to Pitch Summer Products",
+      "link": "https://www.pymnts.com/news/retail/2026/target-uses-nbcuniversals-shoppable-tv-to-pitch-summer-products/",
+      "date": "Jun 12, 2026",
+      "desc": "Viewers of a new Bravo digital series will be able to discover and shop curated Target products while the series’ hosts discuss fashion, entertaining,…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
     },
     {
       "title": "KPMG report contained AI hallucinations about AI use at UBS - FT",
