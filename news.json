@@ -1,11 +1,43 @@
 {
-  "updated": "Jun 19, 2026 at 11:57 UTC",
+  "updated": "Jun 20, 2026 at 10:24 UTC",
   "articles": [
     {
-      "title": "Healthcare AI Has Left the Lab. Now Comes the Hard Part.",
-      "link": "https://www.pymnts.com/healthcare/2026/healthcare-ai-has-left-lab-now-comes-hard-part/",
+      "title": "Pizza Needs a Turnaround. America Needs a Slice.",
+      "link": "https://www.pymnts.com/news/retail/2026/pizza-needs-turnaround-america/",
+      "date": "Jun 20, 2026",
+      "desc": "Pizza has entered its “It’s not you, it’s me” era, which is ridiculous because it is absolutely us.  We, the people, have apparently been ordering fewer pies…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "Finastra sells UB core banking software unit to Pollen Street Capital",
+      "link": "https://www.finextra.com/newsarticle/47961/finastra-sells-ub-core-banking-software-unit-to-pollen-street-capital?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Jun 19, 2026",
-      "desc": "Artificial intelligence in healthcare has evolved past a simple test-and-learn exercise.  AI tools are now embedded into clinical scheduling, drug dispensing,…",
+      "desc": "Finastra has sold its Universal Banking (UB) global core banking software business to UK-based private equity firm Pollen Street Capital. Financial terms of…",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "Finastra Sells Core Banking Business to Focus on Payments and Lending",
+      "link": "https://www.pymnts.com/news/banking/2026/finastra-sells-core-banking-business-to-focus-on-payments-and-lending/",
+      "date": "Jun 19, 2026",
+      "desc": "Private capital asset manager Pollen Street plans to acquire Finastra’s global core banking software business, Universal Banking (UB), and support UB as it…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "NatWest CEO Thwaite says AI will take some banking jobs",
+      "link": "https://www.finextra.com/newsarticle/47960/natwest-ceo-thwaite-says-ai-will-take-some-banking-jobs?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jun 19, 2026",
+      "desc": "NatWest's Paul Thwaite has become the latest bank CEO to predict that artificial intelligence will take over some jobs in the sector but says that this does…",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "State AGs Probe FIFA World Cup Seating and Ticketing Practices",
+      "link": "https://www.pymnts.com/legal/2026/state-ags-probe-fifa-world-cup-seating-and-ticketing-practices/",
+      "date": "Jun 19, 2026",
+      "desc": "The attorneys general of four states are looking into FIFA’s ticketing practices around the World Cup.  California, New Jersey, New York and Texas have…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -14,38 +46,6 @@
       "link": "https://www.finextra.com/newsarticle/47959/danish-startup-festina-raises-25m-for-pensions-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Jun 19, 2026",
       "desc": "Festina Finance, a Denmark-based provider of cloud platforms for the pensions and financial planning industry, has secured €25m from its latest fundraising…",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "Consumers Want AI to Shop With Them, Not for Them",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/consumers-want-ai-to-shop-with-them-not-for-them/",
-      "date": "Jun 19, 2026",
-      "desc": "Artificial intelligence has already transformed how consumers discover products, compare prices, and navigate digital commerce. But as companies race to build…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "Deutsche Bank exec lauds AI impact on project times",
-      "link": "https://www.finextra.com/newsarticle/47958/deutsche-bank-exec-lauds-ai-impact-on-project-times?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jun 19, 2026",
-      "desc": "Greater use of AI has drastically reduced the time of projects, according to a leading investment bank.",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "Millennials’ Payments Playbook: Cards at the Core, Digital Options at the Ready",
-      "link": "https://www.pymnts.com/news/payment-methods/2026/millennials-payments-playbook-cards-core-digital-options-ready/",
-      "date": "Jun 19, 2026",
-      "desc": "Millennials are moving through their prime earning, spending and household-forming years with unusual economic weight.  More than 74 million strong,…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "Revolut refunds Irish customers after historic ATM glitch",
-      "link": "https://www.finextra.com/newsarticle/47957/revolut-refunds-irish-customers-after-historic-atm-glitch?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jun 19, 2026",
-      "desc": "Digital bank Revolut has refunded thousands of Irish customers following a software glitch that led to incorrect charges for ATM access fees.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
