@@ -1,51 +1,51 @@
 {
-  "updated": "Jun 23, 2026 at 10:52 UTC",
+  "updated": "Jun 24, 2026 at 10:38 UTC",
   "articles": [
     {
-      "title": "Payment Processors Can’t Win on Uptime Alone Anymore",
-      "link": "https://www.pymnts.com/news/payments-innovation/2026/payment-processors-cant-win-on-uptime-alone-anymore/",
-      "date": "Jun 23, 2026",
-      "desc": "Watch more: What’s Next in Payments With Matthew Pearce of i2c   For years, payment processors competed on uptime, scale and cost. Artificial intelligence (AI)…",
+      "title": "The Customer Lifetime Value Playbook: A New Framework for Issuer Growth",
+      "link": "https://www.pymnts.com/news/payment-methods/2026/only-17percent-of-issuers-turn-cards-into-growth-engines/",
+      "date": "Jun 24, 2026",
+      "desc": "Card issuers are under pressure to make their card programs do more than process transactions. Consumers expect cards to work instantly, safely and everywhere,…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "French neobank Green-Got shatters Crowdcube records",
-      "link": "https://www.finextra.com/newsarticle/47973/french-neobank-green-got-shatters-crowdcube-records?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jun 23, 2026",
-      "desc": "French sustainable finance startup Green-Got has shattered European crowdfund records by raising €8 million ($9M USD) from 5,286 investors on Crowdcube in just…",
+      "title": "UBS joins $16 million round in private market data and matchmaking service Caplight",
+      "link": "https://www.finextra.com/newsarticle/47982/ubs-joins-16-million-round-in-private-market-data-and-matchmaking-service-caplight?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jun 24, 2026",
+      "desc": "UBS has joined in a $16 million funding round for Caplight, a startup that offers pricing data and matchmaking services for shares of private companies.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Subprime Revolvers Fall 12 Points as Borrowers Shift How They Pay",
-      "link": "https://www.pymnts.com/consumer-finance/2026/subprime-revolvers-fall-12-points-as-borrowers-shift-how-they-pay/",
-      "date": "Jun 23, 2026",
-      "desc": "A notable shift is showing up in the finances of subprime consumers: fewer of them are regularly carrying credit card balances month after month, suggesting a…",
+      "title": "Billtrust Panel Argues That CFOs Need More Than ERP Visibility",
+      "link": "https://www.pymnts.com/back-office/accounts-receivable/2026/billtrust-panel-argues-that-cfos-need-more-than-erp-visibility/",
+      "date": "Jun 24, 2026",
+      "desc": "Watch: Why ERPs Aren’t Enough for Modern AR The most important thing about today’s enterprise resource planning (ERP) systems may be that nobody expects them…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "NAB rolls out conversational AI; creates AI cybercrime hub",
-      "link": "https://www.finextra.com/newsarticle/47972/nab-rolls-out-conversational-ai-creates-ai-cybercrime-hub?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jun 23, 2026",
-      "desc": "NAB is rolling out a conversational AI tool from Databricks that enables staff to explore data by asking simple questions. At the same time, the bank is…",
+      "title": "Anchorbase raises $2 million",
+      "link": "https://www.finextra.com/newsarticle/47981/anchorbase-raises-2-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jun 24, 2026",
+      "desc": "Canadian payments automation platform Anchorbase has raised $2 million to help mid-market businesses automate back-office workflows using AI.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "FinTechs Face a Tougher Road on Cross-Border Deals",
-      "link": "https://www.pymnts.com/legal/2026/fintechs-face-a-tougher-road-on-cross-border-deals/",
-      "date": "Jun 23, 2026",
-      "desc": "Watch more: How Technology Is Transforming Foreign Investment Reviews  The questions surrounding a cross-border acquisition don’t stop with ownership or market…",
+      "title": "Banks Can’t Fight AI Fraud With Yesterday’s Rules",
+      "link": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/banks-cant-fight-ai-fraud-with-yesterdays-rules/",
+      "date": "Jun 24, 2026",
+      "desc": "Watch more: What’s Next in Payments With Entersekt’s Richard Bailey Banks have spent much of the past two years asking whether artificial intelligence should…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "KBC collaborates with Firsty on embedded eSim in mobile app",
-      "link": "https://www.finextra.com/newsarticle/47970/kbc-collaborates-with-firsty-on-embedded-esim-in-mobile-app?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jun 23, 2026",
-      "desc": "KBC customers can now purchase and activate mobile data for roaming abroad, directly in\nthe bank's mobile app.",
+      "title": "PayPoint acquires Aperidata",
+      "link": "https://www.finextra.com/newsarticle/47980/paypoint-acquires-aperidata?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jun 24, 2026",
+      "desc": "PayPoint has completed the acquisition of UK credit reference agency and open banking provider AperiData following a previous £1 million strategic investment.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
