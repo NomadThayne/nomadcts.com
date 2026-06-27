@@ -1,51 +1,27 @@
 {
-  "updated": "Jun 26, 2026 at 10:41 UTC",
+  "updated": "Jun 27, 2026 at 09:54 UTC",
   "articles": [
     {
-      "title": "Firms Discover AI’s Limit Is Infrastructure",
-      "link": "https://www.pymnts.com/news/payments-innovation/2026/firms-discover-ais-limit-is-infrastructure/",
+      "title": "Revolut ends remote-first working for graduates and interns",
+      "link": "https://www.finextra.com/newsarticle/48001/revolut-ends-remote-first-working-for-graduates-and-interns?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Jun 26, 2026",
-      "desc": "Watch more: What’s Next in Payments With Maverick Payments’ Ben Griefer As artificial intelligence (AI) reshapes nearly every corner of financial services, the…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
+      "desc": "Revolut is scrapping its remote-first policy for graduates and interns, requiring new staffers to work in the office at least three days a week.",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "Binance to stop serving EU customers after failing to secure MiCA license",
+      "link": "https://www.finextra.com/newsarticle/48000/binance-to-stop-serving-eu-customers-after-failing-to-secure-mica-license?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jun 26, 2026",
+      "desc": "Crypto giant Binance has told customers in the EU that it will stop providing them with services from 1 July after it failed to secure a license under the…",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
     },
     {
       "title": "FCA admits TREX to regulatory sandbox, tests advanced climate risk modelling",
       "link": "https://www.finextra.com/newsarticle/47999/fca-admits-trex-to-regulatory-sandbox-tests-advanced-climate-risk-modelling?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Jun 26, 2026",
       "desc": "The Financial Conduct Authority (FCA) has onboarded Transition Risk Exeter Ltd (TREX) into its regulatory sandbox to test whether its approach to climate…",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "SMBs Tap AI for Back-Office Execution, Not Just Automation",
-      "link": "https://www.pymnts.com/smbs/2026/smbs-tap-ai-for-back-office-execution-not-just-automation/",
-      "date": "Jun 26, 2026",
-      "desc": "Watch more: What’s Next in Payments With BILL’s Archana Prasad Growing pains aren’t just for kids; they impact small businesses too. Paying suppliers,…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "Finextra and NICE Actimize release new European Fraud Insights survey report",
-      "link": "https://www.finextra.com/newsarticle/47975/finextra-andnice-actimizereleaseneweuropeanfraudinsights-surveyreport?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jun 26, 2026",
-      "desc": "Finextra’s latest survey report ‘The European Fraud Insights report 2026’ is now available to download.",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "70% of Consumers Pick Retailers Based on Payment Options",
-      "link": "https://www.pymnts.com/checkout-conversion/2026/70-percent-of-consumers-pick-retailers-based-on-payment-options/",
-      "date": "Jun 26, 2026",
-      "desc": "Only about 20% of businesses appear ready for the next phase of shopping, where AI agents may help consumers find, compare and buy products before they ever…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "BIS warns of stablecoin 'structural flaws'",
-      "link": "https://www.finextra.com/newsarticle/47993/bis-warns-of-stablecoin-structural-flaws?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jun 26, 2026",
-      "desc": "Stablecoins, as currently designed, have structural flaws that could affect macroeconomic and financial stability if they were to see widespread adoption,…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
