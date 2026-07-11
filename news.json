@@ -1,51 +1,51 @@
 {
-  "updated": "Jul 10, 2026 at 10:42 UTC",
+  "updated": "Jul 11, 2026 at 09:14 UTC",
   "articles": [
     {
-      "title": "Capital One Urges Leaders to Listen Before They Launch",
-      "link": "https://www.pymnts.com/news/banking/2026/capital-one-urges-leaders-to-listen-before-they-launch/",
-      "date": "Jul 10, 2026",
-      "desc": "Watch more: Need to Know With Capital One Business’ Jay Michelini Every financial institution talks about transformation. The technical work may attract the…",
+      "title": "The Weekender: Honey, I Shrunk the Unicorn",
+      "link": "https://www.pymnts.com/startups/2026/weekender-honey-i-shrunk-unicorn/",
+      "date": "Jul 11, 2026",
+      "desc": "The startup org chart used to look like a wedding seating plan: founders, engineers, sales, marketing, finance, legal, HR, three advisors no one could identify…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Revolut recruits JP Morgan exec to lead European operations",
-      "link": "https://www.finextra.com/newsarticle/48071/revolut-recruits-jp-morgan-exec-to-lead-european-operations?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "title": "Wall Street banks clamp down on employee use of prediction markets",
+      "link": "https://www.finextra.com/newsarticle/48075/wall-street-banks-clamp-down-on-employee-use-of-prediction-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Jul 10, 2026",
-      "desc": "Kuba Fast, the man responsible for setting up JP Morgan Chase's UK banking venture, Chase UK, has been poached by UK digital bank Revolut to lead its European…",
+      "desc": "Banks including Goldman Sachs and Morgan Stanley have updated their employee codes of conduct to ban employees from some bets on predictions markets, according…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Three Quarters of Financial Firms See Identity Inconsistencies",
-      "link": "https://www.pymnts.com/authentication/2026/three-quarters-of-financial-firms-see-identity-inconsistencies/",
-      "date": "Jul 10, 2026",
-      "desc": "Digital revenue has turned identity verification from a back-office control into a front-door growth issue for financial services firms. The PYMNTS…",
+      "title": "Greg Brockman Takes Over OpenAI Product Business After Fidji Simo’s Departure",
+      "link": "https://www.pymnts.com/personnel/2026/greg-brockman-takes-over-openai-product-business-after-fidji-simos-departure/",
+      "date": "Jul 11, 2026",
+      "desc": "OpenAI President and Co-Founder Greg Brockman will oversee the company’s ChatGPT product business following the departure of Fidji Simo that was announced…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Lendable raises $670m for global expansion",
-      "link": "https://www.finextra.com/newsarticle/48070/lendable-raises-670m-for-global-expansion?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "title": "UK gives financial regulators oversight of cloud giants",
+      "link": "https://www.finextra.com/newsarticle/48074/uk-gives-financial-regulators-oversight-of-cloud-giants?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Jul 10, 2026",
-      "desc": "UK-based digital lender Lendable has secured £500m of financing by way of a securities sale backed by personal loans.",
+      "desc": "The UK government has put the four biggest cloud service providers - Amazon, Google, Microsoft and Oracle - under direct oversight by the country's financial…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "New Data Shows Why One Consumer Economy Has Become Three",
-      "link": "https://www.pymnts.com/consumer-insights/2026/new-data-shows-why-one-consumer-economy-has-become-three/",
+      "title": "US CBDC Ban Set to Become Law at Midnight",
+      "link": "https://www.pymnts.com/cbdc/2026/us-cbdc-ban-set-to-become-law-at-midnight/",
       "date": "Jul 10, 2026",
-      "desc": "Consumer spending has become less about confidence and more about financial capacity, and that shift is giving banks and payments providers a clearer map of…",
+      "desc": "A four-year ban on a U.S. central bank digital currency (CBDC) is set to take effect if a housing bill becomes law Saturday (July 11), CoinDesk reported Friday…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "AI investing startup GIM raises $20 million",
-      "link": "https://www.finextra.com/newsarticle/48066/ai-investing-startup-gim-raises-20-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "title": "ESMA to review the resilience of crypto custodians",
+      "link": "https://www.finextra.com/newsarticle/48073/esma-to-review-the-resilience-of-crypto-custodians?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Jul 10, 2026",
-      "desc": "Grace Investment Machine (GIM) has raised $20 million in Series A funding to build agentic systems for capital markets.",
+      "desc": "Europe's capital markets regulator, the European Securities and Markets Authority (ESMA), has announced plans to examine the operational resilience and…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
