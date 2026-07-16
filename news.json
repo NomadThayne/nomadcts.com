@@ -1,51 +1,27 @@
 {
-  "updated": "Jul 15, 2026 at 09:47 UTC",
+  "updated": "Jul 16, 2026 at 09:53 UTC",
   "articles": [
     {
-      "title": "Smarter Tokens Could Make AI Purchases Auditable",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/smarter-tokens-could-make-ai-purchases-auditable/",
-      "date": "Jul 15, 2026",
-      "desc": "Watch more: Summer School &#124; IXOPAY &#124; Jill Willard As artificial intelligence agents begin making purchases on behalf of consumers and businesses,…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "Revenue financing fintech Float raises €4.5 million",
-      "link": "https://www.finextra.com/newsarticle/48096/revenue-financing-fintech-float-raises-45-million?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jul 15, 2026",
-      "desc": "Float, the Stockholm-founded revenue-based financing platform for tech SMEs, has secured a €4.5 million Series A funding round led by Hamburg-based Chapters…",
+      "title": "Inter brings wearable payment devices to the US",
+      "link": "https://www.finextra.com/newsarticle/48104/inter-brings-wearable-payment-devices-to-the-us?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jul 16, 2026",
+      "desc": "The financial technology arm of Brazillian digital bank Inter is rolling out contactless payments rings and wristbands to the US.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "FIS Sees $42 Billion Opportunity in Offers Consumers Never Receive",
-      "link": "https://www.pymnts.com/news/loyalty-and-rewards-news/2026/fis-sees-42billiondollar-opportunity-in-offers-consumers-never-receive/",
-      "date": "Jul 15, 2026",
-      "desc": "Watch more: Need to Know &#124; FIS &#124; Mladen Vladic The next contest for cardholder loyalty may depend less on rewards programs than on whether consumers…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "NatWest joins quantum computing innovation programme",
-      "link": "https://www.finextra.com/newsarticle/48093/natwest-joins-quantum-computing-innovation-programme?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jul 15, 2026",
-      "desc": "NatWest has joined a quantum innovation programme to explore how the technology could be used to detect fraud and illicit activity across large transaction…",
+      "title": "Fourthline to merge with Veridas",
+      "link": "https://www.finextra.com/newsarticle/48103/fourthline-to-merge-with-veridas?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jul 16, 2026",
+      "desc": "KYC orchestration platform Fourthline is on the brink of merging with BBVA-backed Veridas to deliver a global identity and compliance platform across Europe…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "44 Million Subprime Consumers Create a New Market for Payments Providers",
-      "link": "https://www.pymnts.com/consumer-insights/2026/44million-subprime-consumers-create-new-market-for-payments-providers/",
-      "date": "Jul 15, 2026",
-      "desc": "For young subprime consumers, the clearest sign of financial pressure may show up not at the checkout counter, but at the doctor’s office. The PYMNTS…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "Stripe and Advent table bid for PayPal",
-      "link": "https://www.finextra.com/newsarticle/48095/stripe-and-advent-table-bid-for-paypal?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jul 15, 2026",
-      "desc": "Stripe and Advent have made a joint offer to acquire PayPal in a deal that values the beleagured payments company at more than $53 million.",
+      "title": "Mastercard picks UK as test environment for agentic AI sandbox",
+      "link": "https://www.finextra.com/newsarticle/48097/mastercard-picks-uk-as-test-environment-for-agentic-ai-sandbox?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jul 16, 2026",
+      "desc": "Mastercard is opening an agentic AI sandbox in the UK, to help banks and retaillers explore, test and validate use cases before introducing them into production",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
