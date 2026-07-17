@@ -1,27 +1,51 @@
 {
-  "updated": "Jul 16, 2026 at 09:53 UTC",
+  "updated": "Jul 17, 2026 at 09:44 UTC",
   "articles": [
     {
-      "title": "Inter brings wearable payment devices to the US",
-      "link": "https://www.finextra.com/newsarticle/48104/inter-brings-wearable-payment-devices-to-the-us?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jul 16, 2026",
-      "desc": "The financial technology arm of Brazillian digital bank Inter is rolling out contactless payments rings and wristbands to the US.",
+      "title": "Panel: The Hidden Cost of B2B Payments Is Manual Work, Not Fees",
+      "link": "https://www.pymnts.com/news/b2b-payments/2026/panel-the-hidden-cost-of-b2b-payments-is-manual-work-not-fees/",
+      "date": "Jul 17, 2026",
+      "desc": "Watch more: BILL Webinar &#124; Mary Kay Bowman and Scott Hess The cost of getting paid in B2B commerce is often hiding in plain sight. Finance teams continue…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "Alipay+ enables QR code payments for travellers to Argentina",
+      "link": "https://www.finextra.com/newsarticle/48112/alipay-enables-qr-code-payments-for-travellers-to-argentina?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jul 17, 2026",
+      "desc": "Travellers to Argentina can now make QR code payments through payment gateway Alipay+.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Fourthline to merge with Veridas",
-      "link": "https://www.finextra.com/newsarticle/48103/fourthline-to-merge-with-veridas?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jul 16, 2026",
-      "desc": "KYC orchestration platform Fourthline is on the brink of merging with BBVA-backed Veridas to deliver a global identity and compliance platform across Europe…",
+      "title": "The Best Buy Now Pay Later Customer Is Not Who Banks Think",
+      "link": "https://www.pymnts.com/consumer-finance/2026/the-best-buy-now-pay-later-customer-is-not-who-banks-think/",
+      "date": "Jul 17, 2026",
+      "desc": "Financial institutions have traditionally organized customers using familiar metrics: income, assets, credit score and spending patterns. Those variables…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "HSBC joins digital gilt pilot as investor depository",
+      "link": "https://www.finextra.com/newsarticle/48107/hsbc-joins-digital-gilt-pilot-as-investor-depository?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jul 17, 2026",
+      "desc": "The London Stock Exchange Group and HSBC have come together to support HM Treasury's Digital Gilt Instrument (Digit) pilot issuance",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Mastercard picks UK as test environment for agentic AI sandbox",
-      "link": "https://www.finextra.com/newsarticle/48097/mastercard-picks-uk-as-test-environment-for-agentic-ai-sandbox?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jul 16, 2026",
-      "desc": "Mastercard is opening an agentic AI sandbox in the UK, to help banks and retaillers explore, test and validate use cases before introducing them into production",
+      "title": "Study: Issuers Improve Returns by Solving the Next Customer Friction",
+      "link": "https://www.pymnts.com/credit-cards/2026/study-issuers-improve-returns-by-solving-next-customer-friction/",
+      "date": "Jul 17, 2026",
+      "desc": "The operating assumption in card issuing is that better technology should produce better economics. Card issuers have largely won the technology-access battle.…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "Mastercard rolls out service to help developers build mobile wallets",
+      "link": "https://www.finextra.com/newsarticle/48108/mastercard-rolls-out-service-to-help-developers-build-mobile-wallets?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jul 17, 2026",
+      "desc": "Mastercard has introduced a set of software tools and services designed to make it easier for banks and fintechs to add contactless payments into their iOS and…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
