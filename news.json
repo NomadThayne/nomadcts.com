@@ -1,11 +1,43 @@
 {
-  "updated": "Jul 19, 2026 at 09:43 UTC",
+  "updated": "Jul 20, 2026 at 10:38 UTC",
   "articles": [
     {
-      "title": "AI Is Coming for Your Job Title",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-is-taking-your-job-title/",
-      "date": "Jul 18, 2026",
-      "desc": "Artificial intelligence may or may not take your job, but it has already broken into the human resources department and vandalized the org chart. The evidence…",
+      "title": "Who Decides Now: How Developers and Tech Teams Are Reshaping the Future of AP Payments",
+      "link": "https://www.pymnts.com/tracker_posts/who-decides-now-how-developers-and-tech-teams-are-reshaping-the-future-of-ap-payments/",
+      "date": "Jul 20, 2026",
+      "desc": "Something fundamental is changing about who decides how organizations pay their suppliers. For years, payments automation was evaluated primarily by finance…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "Georgia's five largest banks to modernise treasury operations with Nasdaq Calypso",
+      "link": "https://www.finextra.com/newsarticle/48119/georgias-five-largest-banks-to-modernise-treasury-operations-with-nasdaq-calypso?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jul 20, 2026",
+      "desc": "Nasdaq has struck a deal with the National Bank of Georgia to modernise the treasury and financial markets infrastructure across the country's banking sector.",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "Why Vertical SaaS Companies Are Taking Control of Payments",
+      "link": "https://www.pymnts.com/news/b2b-payments/2026/why-vertical-saas-companies-are-taking-control-of-payments/",
+      "date": "Jul 20, 2026",
+      "desc": "Watch more: Summer School With Worldpay’s Billi Jo Wright Merchants now expect business software to do more than manage workflows. They want it to drive…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "Lumin Digital raises $70 million from its clients",
+      "link": "https://www.finextra.com/newsarticle/48118/lumin-digital-raises-70-million-from-its-clients?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jul 20, 2026",
+      "desc": "Cloud-native banking platform Lumin Digital has raised over $70 million in new capital from its own clients.",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "The Housing Market Hands More Decisions to AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/the-housing-market-hands-more-decisions-to-ai/",
+      "date": "Jul 20, 2026",
+      "desc": "For most of the history of consumer credit, the loan decision sat with a human. That model is changing. This week in the Prompt Economy™ AI agents are now…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -14,38 +46,6 @@
       "link": "https://www.finextra.com/newsarticle/48117/trump-media-to-sell-traders-instant-access-to-market-moving-truth-social-posts?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Jul 17, 2026",
       "desc": "President Donald Trump's media company is planning to charge traders for real-time access to Truth Social posts, possibly including his own.",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "Regions Bank’s Mobile Upgrade Drives Digital Transactions to 80%",
-      "link": "https://www.pymnts.com/earnings/2026/regions-banks-mobile-upgrade-drives-digital-transactions-to-80/",
-      "date": "Jul 17, 2026",
-      "desc": "Regions Financial Corp. reported continued growth in customers’ digital usage and transactions during the second quarter, with President, CEO and Chairman John…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "PayPal board considers $53bn Stripe-Advent offer inadequate - Reuters",
-      "link": "https://www.finextra.com/newsarticle/48116/paypal-board-considers-53bn-stripe-advent-offer-inadequate---reuters?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jul 17, 2026",
-      "desc": "The PayPal board thinks the $53 billion takeover offer from Stripe and Advent undervalues the payments firm and could also face pushback from regulators,…",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "Ethics Battle Freezes Clarity Act Ahead of Senate Recess",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/ethics-battle-freezes-clarity-act-ahead-of-senate-recess/",
-      "date": "Jul 17, 2026",
-      "desc": "With the Senate set to go on recess in three weeks, after Aug. 7, the Clarity Act is still facing several hurdles, Bloomberg reported Friday (July 17). Several…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "ZA Bank employees will get an extra day of unpaid leave to celebrate World Cup final",
-      "link": "https://www.finextra.com/newsarticle/48114/za-bank-employees-will-get-an-extra-day-of-unpaid-leave-to-celebrate-world-cup-final?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jul 17, 2026",
-      "desc": "Hong Kong’s ZA Bank is bringing back “football hangover” leave for employees following Sunday’s FIFA World Cup final.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
