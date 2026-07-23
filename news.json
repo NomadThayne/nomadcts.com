@@ -1,51 +1,51 @@
 {
-  "updated": "Jul 22, 2026 at 10:11 UTC",
+  "updated": "Jul 23, 2026 at 10:09 UTC",
   "articles": [
     {
-      "title": "Bank of America Tells Finance Leaders to Fix the Data First",
-      "link": "https://www.pymnts.com/back-office/cfo/2026/bank-of-america-tells-finance-leaders-to-fix-the-data-first/",
-      "date": "Jul 22, 2026",
-      "desc": "Watch more: Summer School With Bank of America’s Matthew Davies For finance chiefs, the technology challenge is no longer a lack of options. It is an excess of…",
+      "title": "Bad Financial Data Is AI’s Biggest Liability",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/bad-financial-data-ai-biggest-liability/",
+      "date": "Jul 23, 2026",
+      "desc": "Watch more: Summer School With Fynapse’s Ben Catterall Artificial intelligence may dominate boardroom discussions, but payments companies face a more basic…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Santander UK pledges not to shut further bank branches",
-      "link": "https://www.finextra.com/newsarticle/48132/santander-uk-pledges-not-to-shut-further-bank-branches?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jul 22, 2026",
-      "desc": "Santander UK has committed to halting further branch closures across its network and recently acquired TSB branches until 2028 following a significant round of…",
+      "title": "BitMEX shuts down operations",
+      "link": "https://www.finextra.com/newsarticle/48137/bitmex-shuts-down-operations?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jul 23, 2026",
+      "desc": "Crypto exchange BitMEX is shutting down operations after an 11-year run.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Consumers Don’t Want a Treasure Hunt at Checkout",
-      "link": "https://www.pymnts.com/partnerships/2026/consumers-dont-want-a-treasure-hunt-at-checkout/",
-      "date": "Jul 22, 2026",
-      "desc": "Watch more: Need to Know &#124; FIS &#124; Mladen Vladic Consumers rarely think about rewards until they fail to appear at the right moment. That simple…",
+      "title": "Retail Stores Are Becoming Financial Destinations",
+      "link": "https://www.pymnts.com/news/retail/2026/retail-stores-are-becoming-financial-destinations/",
+      "date": "Jul 23, 2026",
+      "desc": "Watch more: How Stores Became the New Front Door for Everyday Money Movement Retailers measured success by the products that left the store — a tally that’s as…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Anthropic to support AI tests in FCA's Supercharged Sandbox",
-      "link": "https://www.finextra.com/newsarticle/48131/anthropic-to-support-ai-tests-in-fcas-supercharged-sandbox?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jul 22, 2026",
-      "desc": "Anthropic is joining the FCA's Supercharged Sandbox, providing access to Claude Code and Claude Cowork as firms experiment on AI use cases.",
+      "title": "Deutsche Bank runs global AI hackathon",
+      "link": "https://www.finextra.com/newsarticle/48136/deutsche-bank-runs-global-ai-hackathon?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jul 23, 2026",
+      "desc": "More than 4,000 Deutsche Bank employees from around the world are coming together from across 21 locations to explore how AI can help solve practical…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "The Biggest RTP Rival Is the Payment System That Already Works",
-      "link": "https://www.pymnts.com/real-time-payments/2026/the-biggest-rtp-rival-payment-system-that-already-works/",
-      "date": "Jul 22, 2026",
-      "desc": "Businesses that use real-time payments tend to see more value than businesses still deciding whether they need them at all. The divide emerged from the PYMNTS…",
+      "title": "The Future of Finance Depends on Better Workflows, Not Better AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/future-of-finance-depends-on-better-workflows-not-better-ai/",
+      "date": "Jul 23, 2026",
+      "desc": "Watch more: Finance Leaders as Context Architects Artificial intelligence is not creating a finance revolution as much as it is conducting an audit. John…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Mitigram acquires Export Enterprises to connect banks with businesses for trade finance",
-      "link": "https://www.finextra.com/newsarticle/48130/mitigram-acquires-export-enterprises-to-connect-banks-with-businesses-for-trade-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jul 22, 2026",
-      "desc": "Digital trade finance platform Mitigram has acquired Export Enterprises, which operates a trade intelligence platform supporting banks, corporates and trade…",
+      "title": "Bank of America embeds generative AI into customer service tools",
+      "link": "https://www.finextra.com/newsarticle/48133/bank-of-america-embeds-generative-ai-into-customer-service-tools?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jul 23, 2026",
+      "desc": "Bank of America has embedded generative AI into its virtual customer service assistant EricaAssist, delivering relevant client insights in seconds to 18,000…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
