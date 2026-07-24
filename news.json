@@ -1,51 +1,51 @@
 {
-  "updated": "Jul 23, 2026 at 10:09 UTC",
+  "updated": "Jul 24, 2026 at 10:04 UTC",
   "articles": [
     {
-      "title": "Bad Financial Data Is AI’s Biggest Liability",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/bad-financial-data-ai-biggest-liability/",
-      "date": "Jul 23, 2026",
-      "desc": "Watch more: Summer School With Fynapse’s Ben Catterall Artificial intelligence may dominate boardroom discussions, but payments companies face a more basic…",
+      "title": "The True Business Cost of Slow Disbursements",
+      "link": "https://www.pymnts.com/tracker_posts/the-true-business-cost-of-slow-disbursements/",
+      "date": "Jul 24, 2026",
+      "desc": "This Tracker gives CFOs and operations leaders a practical framework for quantifying what slow, check-dependent disbursement infrastructure actually costs.…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "BitMEX shuts down operations",
-      "link": "https://www.finextra.com/newsarticle/48137/bitmex-shuts-down-operations?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jul 23, 2026",
-      "desc": "Crypto exchange BitMEX is shutting down operations after an 11-year run.",
+      "title": "Alipay+ partners with Hong Kong's Hang Seng Bank for cross-border QR code payments",
+      "link": "https://www.finextra.com/newsarticle/48141/alipay-partners-with-hong-kongs-hang-seng-bank-for-cross-border-qr-code-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jul 24, 2026",
+      "desc": "Ant International’s Alipay+ has partnered with Hang Seng Bank to enable QR code payments in Hong Kong.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Retail Stores Are Becoming Financial Destinations",
-      "link": "https://www.pymnts.com/news/retail/2026/retail-stores-are-becoming-financial-destinations/",
-      "date": "Jul 23, 2026",
-      "desc": "Watch more: How Stores Became the New Front Door for Everyday Money Movement Retailers measured success by the products that left the store — a tally that’s as…",
+      "title": "Lithic Says Everything Payments Assumes About Shopping Is About to Break",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/lithic-everything-payments-assumes-about-shopping-is-about-to-break/",
+      "date": "Jul 24, 2026",
+      "desc": "For the past 25 years, card-not-present payments have been built around a defensive premise: Prove the buyer is human, authorized and in control of the…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Deutsche Bank runs global AI hackathon",
-      "link": "https://www.finextra.com/newsarticle/48136/deutsche-bank-runs-global-ai-hackathon?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Jul 23, 2026",
-      "desc": "More than 4,000 Deutsche Bank employees from around the world are coming together from across 21 locations to explore how AI can help solve practical…",
+      "title": "Verifone patents tech that lets payment terminals detect tampering",
+      "link": "https://www.finextra.com/newsarticle/48140/verifone-patents-tech-that-lets-payment-terminals-detect-tampering?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Jul 24, 2026",
+      "desc": "Verifone has been granted a US patent for security technology that allows terminals to continuously monitor themselves for physical tampering, including…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "The Future of Finance Depends on Better Workflows, Not Better AI",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/future-of-finance-depends-on-better-workflows-not-better-ai/",
-      "date": "Jul 23, 2026",
-      "desc": "Watch more: Finance Leaders as Context Architects Artificial intelligence is not creating a finance revolution as much as it is conducting an audit. John…",
+      "title": "Smartphones Turn Every Store Aisle Into a Marketplace",
+      "link": "https://www.pymnts.com/news/mobile-commerce/2026/smartphones-turn-every-store-aisle-into-a-marketplace/",
+      "date": "Jul 24, 2026",
+      "desc": "Mobile commerce is no longer just about buying on a phone. Consumers now use mobile devices for 53% of purchases, but according to new data from PYMNTS…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Bank of America embeds generative AI into customer service tools",
-      "link": "https://www.finextra.com/newsarticle/48133/bank-of-america-embeds-generative-ai-into-customer-service-tools?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "title": "Judge rejects Zelle bid to dismiss lawsuit over fraud losses",
+      "link": "https://www.finextra.com/newsarticle/48139/judge-rejects-zelle-bid-to-dismiss-lawsuit-over-fraud-losses?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Jul 23, 2026",
-      "desc": "Bank of America has embedded generative AI into its virtual customer service assistant EricaAssist, delivering relevant client insights in seconds to 18,000…",
+      "desc": "A US judge has rejected an effort from the operator of Zelle to dismiss a lawsuit filed by New York Attorney General Letitia James accusing the bank-backed P2P…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
