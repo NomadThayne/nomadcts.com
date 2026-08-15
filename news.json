@@ -1,51 +1,51 @@
 {
-  "updated": "Aug 14, 2026 at 08:55 UTC",
+  "updated": "Aug 15, 2026 at 08:13 UTC",
   "articles": [
     {
-      "title": "SoFi Teaches Its AI Coach to Read the Financial Room",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/sofi-teaches-its-ai-coach-to-read-the-financial-room/",
-      "date": "Aug 14, 2026",
-      "desc": "Watch more: Digital Shift With SoFi’s Brian Walsh Digital transformation in financial services has traditionally hung its hat on the promise of democratization…",
+      "title": "Italy’s Cheese Bank Finds Climate Risk Has a Rind",
+      "link": "https://www.pymnts.com/news/banking/2026/italy-cheese-bank-finds-climate-risk-has-rind/",
+      "date": "Aug 15, 2026",
+      "desc": "On Wall Street, “cheese” is slang for money. In Italy, they decided the metaphor needed collateral. Deep inside climate-controlled warehouses in…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "MUFG trials blockchain settlement for Japanese Government Bond repo trades",
-      "link": "https://www.finextra.com/newsarticle/48246/mufg-trials-blockchain-settlement-for-japanese-government-bond-repo-trades?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "title": "JPMorgan debanked Polymarket - FT",
+      "link": "https://www.finextra.com/newsarticle/48251/jpmorgan-debanked-polymarket---ft?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Aug 14, 2026",
-      "desc": "Mitsubishi UFJ Financial Group (MUFG) is running a proof-of-concept for bringing Japanese Government Bond repo transactions on-chain using the Canton Network…",
+      "desc": "JPMorgan Chase ended its banking relationship with prediction market Polymarket last year over regulatory concerns, according to the Financial Times.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Merchants Find Revenue Hiding Behind the Decline Button",
-      "link": "https://www.pymnts.com/real-time-payments/2026/merchants-find-revenue-hiding-behind-the-decline-button/",
-      "date": "Aug 14, 2026",
-      "desc": "In a fragmented payments environment, how intelligently infrastructure decides what should happen to every transaction is becoming a key definition of payments…",
+      "title": "Mastercard Offers Brazilian Acquirers 50% Payout and Services in Will Bank Dispute",
+      "link": "https://www.pymnts.com/mastercard/2026/mastercard-offers-brazilian-acquirers-50percent-payout-services-will-bank-dispute/",
+      "date": "Aug 15, 2026",
+      "desc": "Mastercard is proposing to pay half the amount demanded by Brazilian merchant acquirers that were impacted by the collapse of Will Financeira, also known as…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "BofA to buy 49.9% stake in Indian digital lender Jio Credit",
-      "link": "https://www.finextra.com/newsarticle/48247/bofa-to-buy-499-stake-in-indian-digital-lender-jio-credit?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "title": "Chime considering adding stablecoin features to app",
+      "link": "https://www.finextra.com/newsarticle/48250/chime-considering-adding-stablecoin-features-to-app?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Aug 14, 2026",
-      "desc": "Bank of America has struck a $1.9 billion deal to buy up to 49.9% of Indian digital-native non-bank lender Jio Credit.",
+      "desc": "Consumer banking fintech firm Chime Financial is reportedly considering adding stablecoins as a feature in its app.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Nearly 4 in 10 CFOs See Gen AI Paying Off Within Two Years",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nearly-4-in-10-cfos-see-gen-ai-paying-off-within-two-years/",
+      "title": "Nvidia Uses $500 Billion Financing Initiative to Dispel AI Bubble Fears",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-uses-500-billion-dollar-financing-initiative-dispel-ai-bubble-fears/",
       "date": "Aug 14, 2026",
-      "desc": "CFOs have stopped treating generative artificial intelligence returns as one date circled on the calendar. By December, 39.1% expected very positive returns…",
+      "desc": "Nvidia’s $500 billion artificial intelligence financing initiative that was announced Monday (Aug. 10) aims to assure the company’s investors that there is…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Trump sued over selling early access to Truth Social posts",
-      "link": "https://www.finextra.com/newsarticle/48245/trump-sued-over-selling-early-access-to-truth-social-posts?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Aug 13, 2026",
-      "desc": "President Donald Trump has been sued over his media company's move to charge for real-time access to Truth Social posts.",
+      "title": "Nvidia partners with Wall Street mobilise funds for AI infrastructure, Goldman Sachs leads financing",
+      "link": "https://www.finextra.com/newsarticle/48249/nvidia-partners-with-wall-street-mobilise-funds-for-ai-infrastructure-goldman-sachs-leads-financing?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Aug 14, 2026",
+      "desc": "Goldman Sachs is in talks with investors on financing Nvidia’s deal with leading asset managers to build AI infrastructure.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
