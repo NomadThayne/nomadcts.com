@@ -1,51 +1,51 @@
 {
-  "updated": "Aug 19, 2026 at 08:21 UTC",
+  "updated": "Aug 20, 2026 at 08:22 UTC",
   "articles": [
     {
-      "title": "WEX Says Embedded Payments Are Easier to Launch Than to Scale",
-      "link": "https://www.pymnts.com/news/b2b-payments/2026/wex-says-embedded-payments-are-easier-to-launch-than-to-scale/",
-      "date": "Aug 19, 2026",
-      "desc": "Watch more: Need to Know With WEX’s Eric Frankovic Embedded payments can look simple at launch. A company identifies a customer pain point, integrates a…",
+      "title": "How Treasury Teams Are Turning ERP Investments Into Better Cash Decisions",
+      "link": "https://www.pymnts.com/back-office/2026/how-treasury-teams-are-turning-erp-investments-into-better-cash-decisions/",
+      "date": "Aug 20, 2026",
+      "desc": "Watch more: The Digital Shift With Bank of America’s Matthew Miller The biggest misconception in corporate treasury modernization may be that software…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "How investors can find genuine asset class parity with nature-based solutions",
-      "link": "https://www.finextra.com/newsarticle/48263/how-investors-can-find-genuine-asset-class-parity-with-nature-based-solutions?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Aug 19, 2026",
-      "desc": "Issues of biodiversity and conservation have often been subjects left to philanthropic efforts and left out of major budgetary discussions in fintech and…",
+      "title": "Kraken launches crypto debit card in the US",
+      "link": "https://www.finextra.com/newsarticle/48271/kraken-launches-crypto-debit-card-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Aug 20, 2026",
+      "desc": "Kraken has brought its multi-asset debit card to the US, letting users spend hundreds of crypto and cash currencies.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Emerging Middle Market Growth Needs Credit That Moves With Inventory",
-      "link": "https://www.pymnts.com/loans/working-capital/2026/emerging-middle-market-growth-needs-credit-that-moves-with-inventory/",
-      "date": "Aug 19, 2026",
-      "desc": "A distributor can know what inventory it needs to order next week before its financing system knows that the purchase exists. That disconnect becomes more…",
+      "title": "Big Tech’s AI Gatekeepers Could Draw Regulatory Scrutiny",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/big-techs-ai-gatekeepers-could-draw-regulatory-scrutiny/",
+      "date": "Aug 20, 2026",
+      "desc": "Watch more: TechREG Talks With Anant Raut The legal architecture governing software rests on a useful assumption: However sophisticated the technology becomes,…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Westpac to reshape software engineering with Amp Frontier Corporation",
-      "link": "https://www.finextra.com/newsarticle/48262/westpac-to-reshape-software-engineering-with-amp-frontier-corporation?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "title": "Monzo deploys backup bank in face of outage",
+      "link": "https://www.finextra.com/newsarticle/48272/monzo-deploys-backup-bank-in-face-of-outage?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Aug 19, 2026",
-      "desc": "Westpac has contracted with San Franciscop-based Amp Frontier Corporation to build a suite of AI agents for software engineering tasks.",
+      "desc": "Monzo says it has activated its independent backup bank after thousands of customers reported issues with accessing its app. The issue was resolved on…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "What Makes a New Card Win the Wallet?",
-      "link": "https://www.pymnts.com/digital-payments/2026/what-makes-a-new-card-win-the-wallet/",
-      "date": "Aug 19, 2026",
-      "desc": "A card can earn top billing in a customer’s wallet or disappear behind an expired gift card. The difference often starts with the first tap and grows with…",
+      "title": "Enterprise AI Finds Its Firmest Footing in Security and Treasury",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/enterprise-ai-finds-its-firmest-footing-in-security-and-treasury/",
+      "date": "Aug 20, 2026",
+      "desc": "For all the attention paid to enterprise artificial intelligence strategy, adoption is not spreading evenly across the organization. According to findings…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Stablecoins offer little cost or speed advantage for remittances - Banca d'Italia",
-      "link": "https://www.finextra.com/newsarticle/48266/stablecoins-offer-little-cost-or-speed-advantage-for-remittances---banca-ditalia?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "title": "HSBC and Standard Chartered execute first live transaction on Swift's blockchain-based ledger",
+      "link": "https://www.finextra.com/newsarticle/48270/hsbc-and-standard-chartered-execute-first-live-transaction-on-swifts-blockchain-based-ledger?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Aug 19, 2026",
-      "desc": "Stablecoins show no systematic cost advantage over traditional remittance channels for cross-border payments, researchers at Banca d'Italia have found.",
+      "desc": "HSBC abnd Standard Chartered have completed the first live tokenised deposit transaction on Swift's new blockchain-based ledger.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
