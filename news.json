@@ -1,51 +1,51 @@
 {
-  "updated": "Aug 20, 2026 at 08:22 UTC",
+  "updated": "Aug 21, 2026 at 08:24 UTC",
   "articles": [
     {
-      "title": "How Treasury Teams Are Turning ERP Investments Into Better Cash Decisions",
-      "link": "https://www.pymnts.com/back-office/2026/how-treasury-teams-are-turning-erp-investments-into-better-cash-decisions/",
-      "date": "Aug 20, 2026",
-      "desc": "Watch more: The Digital Shift With Bank of America’s Matthew Miller The biggest misconception in corporate treasury modernization may be that software…",
+      "title": "Banks Prepare Payments for AI Commerce",
+      "link": "https://www.pymnts.com/news/payments-innovation/2026/banks-prepare-payments-for-ai-commerce/",
+      "date": "Aug 21, 2026",
+      "desc": "Watch more: Need to Know With Thales’ Caio Reis Banks are rebuilding payments systems for transactions that may soon be initiated by software rather than…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Kraken launches crypto debit card in the US",
-      "link": "https://www.finextra.com/newsarticle/48271/kraken-launches-crypto-debit-card-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Aug 20, 2026",
-      "desc": "Kraken has brought its multi-asset debit card to the US, letting users spend hundreds of crypto and cash currencies.",
+      "title": "Visa partners _able and Onafriq to expand credit access in Africa",
+      "link": "https://www.finextra.com/newsarticle/48279/visa-partners-able-and-onafriq-to-expand-credit-access-in-africa?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Aug 21, 2026",
+      "desc": "Visa is working with credit infrastructure provider _able and African payments outfit Onafriq to expand access to credit to millions of African bank account…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Big Tech’s AI Gatekeepers Could Draw Regulatory Scrutiny",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/big-techs-ai-gatekeepers-could-draw-regulatory-scrutiny/",
-      "date": "Aug 20, 2026",
-      "desc": "Watch more: TechREG Talks With Anant Raut The legal architecture governing software rests on a useful assumption: However sophisticated the technology becomes,…",
+      "title": "Credit Union Chatbot Adoption Jumps From 3% to 46%",
+      "link": "https://www.pymnts.com/smbs/2026/credit-union-chatbot-adoption-jumps-from-3-to-46/",
+      "date": "Aug 21, 2026",
+      "desc": "Artificial intelligence (AI) may be climbing the strategic agenda at credit unions, but the most consequential gap is no longer one of awareness. It is the…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Monzo deploys backup bank in face of outage",
-      "link": "https://www.finextra.com/newsarticle/48272/monzo-deploys-backup-bank-in-face-of-outage?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Aug 19, 2026",
-      "desc": "Monzo says it has activated its independent backup bank after thousands of customers reported issues with accessing its app. The issue was resolved on…",
+      "title": "Global banks sign for Ant International AI forecasting model",
+      "link": "https://www.finextra.com/newsarticle/48280/global-banks-sign-for-ant-international-ai-forecasting-model?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Aug 21, 2026",
+      "desc": "A host of banking giants, including Barclays and Deutsche Bank, are already using a new Ant International AI model to improve their cashflow forecasting and FX…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Enterprise AI Finds Its Firmest Footing in Security and Treasury",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/enterprise-ai-finds-its-firmest-footing-in-security-and-treasury/",
-      "date": "Aug 20, 2026",
-      "desc": "For all the attention paid to enterprise artificial intelligence strategy, adoption is not spreading evenly across the organization. According to findings…",
+      "title": "83% of Financial Firms Rate ID Systems Highly Despite Customer Friction",
+      "link": "https://www.pymnts.com/authentication/digital-identity/2026/83-percent-of-financial-firms-rate-id-systems-highly-despite-customer-friction/",
+      "date": "Aug 21, 2026",
+      "desc": "Financial firms have confidence to spare in digital identity systems, even when the results leave plenty of room for improvement. The January 2026 PYMNTS…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "HSBC and Standard Chartered execute first live transaction on Swift's blockchain-based ledger",
-      "link": "https://www.finextra.com/newsarticle/48270/hsbc-and-standard-chartered-execute-first-live-transaction-on-swifts-blockchain-based-ledger?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Aug 19, 2026",
-      "desc": "HSBC abnd Standard Chartered have completed the first live tokenised deposit transaction on Swift's new blockchain-based ledger.",
+      "title": "Binance unveils platform that lets AI agents make trades for users",
+      "link": "https://www.finextra.com/newsarticle/48278/binance-unveils-platform-that-lets-ai-agents-make-trades-for-users?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Aug 20, 2026",
+      "desc": "Crypto exchange Binance has launched a developer platform that lets users connect AI agents to its systems and make trades.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
