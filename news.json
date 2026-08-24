@@ -1,11 +1,43 @@
 {
-  "updated": "Aug 23, 2026 at 08:15 UTC",
+  "updated": "Aug 24, 2026 at 08:34 UTC",
   "articles": [
     {
-      "title": "Your AI Notetaker Would Like a Word",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/your-ai-notetaker-would-like-a-word/",
-      "date": "Aug 22, 2026",
-      "desc": "The modern meeting has acquired a new participant. It doesn’t contribute, laugh at jokes or pretend to understand the quarterly strategy. It simply joins with…",
+      "title": "WorkWhile CEO Wants Earning Power to Become Finance’s Fourth Rail",
+      "link": "https://www.pymnts.com/gig-economy/2026/workwhile-ceo-wants-earning-power-to-become-finances-fourth-rail/",
+      "date": "Aug 24, 2026",
+      "desc": "Watch more: Monday Conversation With WorkWhile’s Simon Khalaf For a worker paid by the shift, $200 arriving tomorrow can outweigh an annual income figure that…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "Egypt's CIB scores preliminary approval for new digital bank",
+      "link": "https://www.finextra.com/newsarticle/48284/egypts-cib-scores-preliminary-approval-for-new-digital-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Aug 24, 2026",
+      "desc": "Egypt's Commercial International Bank (CIB) has received preliminary regulatory approval to set up a digitally native offshoot.",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "FIS Says Purchase Data Will Push Payments Beyond the Transaction",
+      "link": "https://www.pymnts.com/news/payments-innovation/2026/fis-says-purchase-data-will-push-payments-beyond-the-transaction/",
+      "date": "Aug 24, 2026",
+      "desc": "Watch more: What’s Next in Payments With Jakob Harrison of FIS Jakob Harrison said he does not buy the idea that payments executives should spend their days…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "UK fintech funding hits lowest level in a decade",
+      "link": "https://www.finextra.com/newsarticle/48285/uk-fintech-funding-hits-lowest-level-in-a-decade?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Aug 24, 2026",
+      "desc": "UK fintech funding dropped to its lowest level in a decade in the first half of 2026, with firms receiving just £1.8 billion in investment, according to the…",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "How SoCalGas Eliminates 50,000 Checks With Digital Payouts",
+      "link": "https://www.pymnts.com/disbursements/2026/how-socalgas-eliminates-50000-checks-with-digital-payouts/",
+      "date": "Aug 24, 2026",
+      "desc": "Finance teams generally know what paper checks cost. They can calculate printing and postage expenses. They can also estimate reconciliation costs and fraud…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -14,38 +46,6 @@
       "link": "https://www.finextra.com/newsarticle/48286/walmart-finally-lets-customers-make-contactless-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Aug 21, 2026",
       "desc": "US retail behemoth Walmart is making a daring expedition to the bleeding edge of technology, rolling out contactless payments in its stores.",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "Fifth Third Backs Payload’s Embedded Payments Expansion",
-      "link": "https://www.pymnts.com/news/investment-tracker/2026/fifth-third-backs-payloads-embedded-payments-expansion/",
-      "date": "Aug 22, 2026",
-      "desc": "Payload has secured a strategic investment led by Fifth Third to expand its embedded payments platform, Payload said in a Wednesday (Aug. 19) press release.…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "Two Binance employees detained in UAE - NYT",
-      "link": "https://www.finextra.com/newsarticle/48283/two-binance-employees-detained-in-uae---nyt?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Aug 21, 2026",
-      "desc": "Two Binance employees have been detained in the UAE under a police investigation into alleged financial crimes on the platform, The New York Times reported on…",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "Apple Cuts Vision Pro Roles to Focus on Smart Glasses Push",
-      "link": "https://www.pymnts.com/apple/2026/apple-cuts-vision-pro-roles-to-focus-on-smart-glasses-push/",
-      "date": "Aug 22, 2026",
-      "desc": "Apple is realigning some teams as it shifts its focus to new devices and artificial intelligence (AI), Bloomberg reported Friday (Aug. 21), citing unnamed…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "SEC proposes Regulation Crypto Assets",
-      "link": "https://www.finextra.com/newsarticle/48282/sec-proposes-regulation-crypto-assets?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Aug 21, 2026",
-      "desc": "The US Securities and Exchange Commission (SEC) announced its proposal of new crypto asset rules to provide a framework for investment contracts involving…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
