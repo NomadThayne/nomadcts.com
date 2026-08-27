@@ -1,51 +1,51 @@
 {
-  "updated": "Aug 26, 2026 at 08:28 UTC",
+  "updated": "Aug 27, 2026 at 18:28 UTC",
   "articles": [
     {
-      "title": "Splitit CEO Says Payments Firms Must Build for AI, Not Just Use It",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/splitit-ceo-says-payments-firms-must-build-for-ai-not-just-use-it/",
-      "date": "Aug 26, 2026",
-      "desc": "Watch more: What’s Next in Payments With Splitit’s Nandan Sheth For payments executives, artificial intelligence (AI) is quickly becoming less interesting as a…",
+      "title": "Experian Brings Conversational Credit Card Browsing to ChatGPT",
+      "link": "https://www.pymnts.com/credit-cards/2026/experian-brings-conversational-credit-card-browsing-to-chatgpt/",
+      "date": "Aug 27, 2026",
+      "desc": "Experian has launched an app on OpenAI’s ChatGPT that helps consumers discover and compare credit card options through a conversation, the company said in a…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Revolut rolls out euro stablecoin",
-      "link": "https://www.finextra.com/newsarticle/48301/revolut-rolls-out-euro-stablecoin?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Aug 26, 2026",
-      "desc": "Revolut has begun a phased rollout of its first stablecoin, euro-backed EURR, to eligible customers in Denmark, Poland, and Portugal, with wider availability…",
+      "title": "Socure hits $5.2bn valuation on investment; buys AI fraud platform Fravity",
+      "link": "https://www.finextra.com/newsarticle/48311/socure-hits-52bn-valuation-on-investment-buys-ai-fraud-platform-fravity?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Aug 27, 2026",
+      "desc": "Socure, the identity and risk intelligence infrastructure platform, has raised funding from investors including Goldman Sachs Alternatives and Wells Fargo at a…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "FGV Capital Says AI Startup Rock Stars Need Different VC Roadies",
-      "link": "https://www.pymnts.com/startups/2026/fgv-capital-says-ai-startup-rock-stars-need-different-vc-roadies/",
-      "date": "Aug 26, 2026",
-      "desc": "Watch more: Need to Know With FGV Capital’s Marcos Fernandez The first institutional check used to finance much of the machinery required to turn an idea into…",
+      "title": "Dollar Tree Attracts Higher-Income Customers as Sales Climb 7%",
+      "link": "https://www.pymnts.com/earnings/2026/dollar-tree-attracts-higher-income-customers-as-sales-climb-7percent/",
+      "date": "Aug 27, 2026",
+      "desc": "Dollar Tree continues to attract middle-income and higher-income shoppers as consumers deal with inflation. The discount retailer reported earnings Thursday…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Google Cloud launches AI platform for financial professionals",
-      "link": "https://www.finextra.com/newsarticle/48299/google-cloud-launches-ai-platform-for-financial-professionals?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Aug 26, 2026",
-      "desc": "Google Cloud has unveiled a purpose-built agentic AI offering engineered for financial professionals, with Deutsche Bank signed up as an early adopter.",
+      "title": "US state bankers associations to build industry-owned blockchain network",
+      "link": "https://www.finextra.com/newsarticle/48316/us-state-bankers-associations-to-build-industry-owned-blockchain-network?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Aug 27, 2026",
+      "desc": "Bankers associations from 39 US states have banded together to create an industry-owned blockchain network.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Three Charts Show Who Wants a Federal Bank Charter and Why",
-      "link": "https://www.pymnts.com/legal/2026/three-charts-show-who-wants-a-federal-bank-charter-and-why/",
-      "date": "Aug 26, 2026",
-      "desc": "The Office of the Comptroller of the Currency’s charter-granting activity doesn’t just show that a new rash of financial services firms are successfully…",
+      "title": "Hugging Face Hack Involved 700 AI Agents That Tried to Conceal Behavior",
+      "link": "https://www.pymnts.com/cybersecurity/2026/hugging-face-hack-involved-700-ai-agents-that-tried-to-conceal-behavior/",
+      "date": "Aug 27, 2026",
+      "desc": "Last month, OpenAI revealed that its agents had hacked open-source artificial intelligence (AI) platform Hugging Face. Now, a pair of reports—one by OpenAI and…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Visa joins MAS-led project to pilot stablecoin settlement",
-      "link": "https://www.finextra.com/newsarticle/48300/visa-joins-mas-led-project-to-pilot-stablecoin-settlement?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Aug 26, 2026",
-      "desc": "Visa has joined a Monetary Authority of Singapore (MAS)-led project focused on connecting traditional payments and stablecoin networks.",
+      "title": "How the banking industry can ensure vulnerable adults don’t remain underbanked",
+      "link": "https://www.finextra.com/newsarticle/48308/how-the-banking-industry-can-ensure-vulnerable-adults-dont-remain-underbanked?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Aug 27, 2026",
+      "desc": "The industry often lauds the success of new technologies and rapid advances in real-time payments, but, for some, these changes can create exclusion and leave…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
