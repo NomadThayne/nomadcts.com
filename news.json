@@ -1,51 +1,51 @@
 {
-  "updated": "Aug 27, 2026 at 18:28 UTC",
+  "updated": "Aug 28, 2026 at 19:42 UTC",
   "articles": [
     {
-      "title": "Experian Brings Conversational Credit Card Browsing to ChatGPT",
-      "link": "https://www.pymnts.com/credit-cards/2026/experian-brings-conversational-credit-card-browsing-to-chatgpt/",
-      "date": "Aug 27, 2026",
-      "desc": "Experian has launched an app on OpenAI’s ChatGPT that helps consumers discover and compare credit card options through a conversation, the company said in a…",
+      "title": "Banks Turn to AI to Stop Overstocking ATMs",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-use-ai-stop-overstocking-atms/",
+      "date": "Aug 28, 2026",
+      "desc": "Cash has not disappeared the way many predicted. Cash accounts for 14% of consumer payments in the United States, more than 80% of consumers used it in the…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Socure hits $5.2bn valuation on investment; buys AI fraud platform Fravity",
-      "link": "https://www.finextra.com/newsarticle/48311/socure-hits-52bn-valuation-on-investment-buys-ai-fraud-platform-fravity?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Aug 27, 2026",
-      "desc": "Socure, the identity and risk intelligence infrastructure platform, has raised funding from investors including Goldman Sachs Alternatives and Wells Fargo at a…",
+      "title": "PayPal shares sink on reported collapse of Stripe-Advent takeover deal",
+      "link": "https://www.finextra.com/newsarticle/48322/paypal-shares-sink-on-reported-collapse-of-stripe-advent-takeover-deal?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Aug 28, 2026",
+      "desc": "Shares in PayPal plummeted more than 13% on Friday on reports that Stripe and Advent International have pulled out of their takeover bid for the payments giant.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Dollar Tree Attracts Higher-Income Customers as Sales Climb 7%",
-      "link": "https://www.pymnts.com/earnings/2026/dollar-tree-attracts-higher-income-customers-as-sales-climb-7percent/",
-      "date": "Aug 27, 2026",
-      "desc": "Dollar Tree continues to attract middle-income and higher-income shoppers as consumers deal with inflation. The discount retailer reported earnings Thursday…",
+      "title": "Andreessen Horowitz Targets AI Supply Crunch With New $1.1 Billion Hardware Fund",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/andreessen-horowitz-targets-ai-supply-crunch-with-new-1-1-billion-hardware-fund/",
+      "date": "Aug 28, 2026",
+      "desc": "Andreessen Horowitz has raised $1.1 billion for a new fund that aims to accelerate the buildout of artificial intelligence infrastructure by investing in…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "US state bankers associations to build industry-owned blockchain network",
-      "link": "https://www.finextra.com/newsarticle/48316/us-state-bankers-associations-to-build-industry-owned-blockchain-network?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Aug 27, 2026",
-      "desc": "Bankers associations from 39 US states have banded together to create an industry-owned blockchain network.",
+      "title": "Visa and Mastercard complete transactions in Syria after US lifts state terrorism label",
+      "link": "https://www.finextra.com/newsarticle/48321/visa-and-mastercard-complete-transactions-in-syria-after-us-lifts-state-terrorism-label?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Aug 28, 2026",
+      "desc": "Visa and Mastercard have completed their first international card transactions in Syria after the US removed it from the state sponsors of terrorism list.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Hugging Face Hack Involved 700 AI Agents That Tried to Conceal Behavior",
-      "link": "https://www.pymnts.com/cybersecurity/2026/hugging-face-hack-involved-700-ai-agents-that-tried-to-conceal-behavior/",
-      "date": "Aug 27, 2026",
-      "desc": "Last month, OpenAI revealed that its agents had hacked open-source artificial intelligence (AI) platform Hugging Face. Now, a pair of reports—one by OpenAI and…",
+      "title": "USD.AI Secures $100 Million Credit Facility From Bullish to Power AI Buildout",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/usd-ai-secures-100-million-credit-facility-from-bullish-to-power-ai-buildout/",
+      "date": "Aug 28, 2026",
+      "desc": "USD.AI has secured a $100 million stablecoin-based debt facility from digital asset platform Bullish to power its GPU financing ecosystem, USD.AI said in a…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "How the banking industry can ensure vulnerable adults don’t remain underbanked",
-      "link": "https://www.finextra.com/newsarticle/48308/how-the-banking-industry-can-ensure-vulnerable-adults-dont-remain-underbanked?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Aug 27, 2026",
-      "desc": "The industry often lauds the success of new technologies and rapid advances in real-time payments, but, for some, these changes can create exclusion and leave…",
+      "title": "Meta tests consumer-based AI agent for everyday online tasks",
+      "link": "https://www.finextra.com/newsarticle/48319/meta-tests-consumer-based-ai-agent-for-everyday-online-tasks?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Aug 28, 2026",
+      "desc": "Meta is testing an AI agent that can set up appointments, post on social media, fill out forms, and buy things on the user’s behalf.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
