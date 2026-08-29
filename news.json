@@ -1,11 +1,11 @@
 {
-  "updated": "Aug 28, 2026 at 19:42 UTC",
+  "updated": "Aug 29, 2026 at 13:26 UTC",
   "articles": [
     {
-      "title": "Banks Turn to AI to Stop Overstocking ATMs",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-use-ai-stop-overstocking-atms/",
-      "date": "Aug 28, 2026",
-      "desc": "Cash has not disappeared the way many predicted. Cash accounts for 14% of consumer payments in the United States, more than 80% of consumers used it in the…",
+      "title": "Malware Has a Branding Department and ToxicPanda Is Its Latest Star",
+      "link": "https://www.pymnts.com/cybersecurity/2026/malware-has-branding-department-toxicpanda-is-latest-star/",
+      "date": "Aug 29, 2026",
+      "desc": "ToxicPanda sounds like an energy drink formulated for people who regard sleep as a character flaw. It’s actually an Android banking Trojan capable of taking…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -18,10 +18,10 @@
       "cssClass": "source-finextra"
     },
     {
-      "title": "Andreessen Horowitz Targets AI Supply Crunch With New $1.1 Billion Hardware Fund",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/andreessen-horowitz-targets-ai-supply-crunch-with-new-1-1-billion-hardware-fund/",
-      "date": "Aug 28, 2026",
-      "desc": "Andreessen Horowitz has raised $1.1 billion for a new fund that aims to accelerate the buildout of artificial intelligence infrastructure by investing in…",
+      "title": "CFTC Signals Supreme Court Battle After Nevada Wins Prediction Markets Case",
+      "link": "https://www.pymnts.com/legal/2026/cftc-signals-supreme-court-battle-after-nevada-wins-prediction-markets-case/",
+      "date": "Aug 29, 2026",
+      "desc": "A court’s ruling that sports event contracts are not swaps that are regulated exclusively by the Commodity Futures Trading Commission (CFTC) set the stage for…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -34,10 +34,10 @@
       "cssClass": "source-finextra"
     },
     {
-      "title": "USD.AI Secures $100 Million Credit Facility From Bullish to Power AI Buildout",
-      "link": "https://www.pymnts.com/news/investment-tracker/2026/usd-ai-secures-100-million-credit-facility-from-bullish-to-power-ai-buildout/",
+      "title": "Genius Group Targets Bitcoin Treasury Rebuild 5 Months After Selling Off",
+      "link": "https://www.pymnts.com/blockchain/bitcoin/2026/genius-group-targets-bitcoin-treasury-rebuild-5-months-after-selling-off/",
       "date": "Aug 28, 2026",
-      "desc": "USD.AI has secured a $100 million stablecoin-based debt facility from digital asset platform Bullish to power its GPU financing ecosystem, USD.AI said in a…",
+      "desc": "Genius Group, a company that operates a bitcoin and artificial intelligence (AI) dual treasury strategy alongside its core education business, plans to acquire…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
