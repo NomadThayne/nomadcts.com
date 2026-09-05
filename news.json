@@ -1,11 +1,27 @@
 {
-  "updated": "Sep 4, 2026 at 12:19 UTC",
+  "updated": "Sep 5, 2026 at 11:26 UTC",
   "articles": [
     {
-      "title": "FBI Investigates Possible Breach of Millions of American IDs",
-      "link": "https://www.pymnts.com/cybersecurity/identity-theft/2026/fbi-investigates-possible-breach-of-millions-of-american-ids/",
+      "title": "Halloween Is Coming Early and Bringing AI With It",
+      "link": "https://www.pymnts.com/news/retail/2026/halloween-is-coming-early-bringing-ai/",
+      "date": "Sep 5, 2026",
+      "desc": "Labor Day traditionally tells Northeasterners to locate a sweater, inspect the foliage and pretend the beach chairs will be stored before Thanksgiving. This…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "ECB explores link between Tips and Brazil's Pix",
+      "link": "https://www.finextra.com/newsarticle/48350/ecb-explores-link-between-tips-and-brazils-pix?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Sep 4, 2026",
-      "desc": "The FBI is investigating a possible breach that may have exposed scans of millions of American drivers’ licenses, according to Bloomberg News. A bureau…",
+      "desc": "The European Central Bank is looking into the possibility of interlinking the Eurosystem’s Target Instant Payment Settlement (Tips) with Brazil's Pix system.",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "PayPal Pauses Venture Capital Portfolio Sale After Lowball Offers",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/paypal-pauses-venture-capital-portfolio-sale-after-lowball-offers/",
+      "date": "Sep 4, 2026",
+      "desc": "PayPal has paused its planned sale of its venture capital portfolio after offers came in at no higher than 60 cents on the dollar, Seeking…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -18,10 +34,10 @@
       "cssClass": "source-finextra"
     },
     {
-      "title": "Citadel CEO Says Small Business Lending Starts Before the Application",
-      "link": "https://www.pymnts.com/credit-unions/2026/citadel-ceo-says-small-business-lending-starts-before-the-application/",
+      "title": "Apple Set to Kick Off Yearslong Device Blitz at Wednesday Event",
+      "link": "https://www.pymnts.com/apple/2026/apple-set-to-kick-off-yearslong-device-blitz-at-wednesday-event/",
       "date": "Sep 4, 2026",
-      "desc": "Watch more: Need to Know With Citadel Credit Union’s Bill Brown Small businesses can be profitable on paper and still find themselves short of cash when…",
+      "desc": "An Apple event scheduled for Wednesday (Sept. 9), Surprise and Shine, will mark the beginning of the longest series of device releases in the company’s…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -30,22 +46,6 @@
       "link": "https://www.finextra.com/newsarticle/48347/bnp-paribas-and-hsbc-complete-first-corporate-treasury-transaction-on-swifts-blockchain-ledger?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Sep 4, 2026",
       "desc": "Global banks BNP Paribas and HSBC have completed the first corporate treasury payments using Swift’s blockchain-based ledger for Siemens.",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "CFO Caution Creates an Opening for Bolder Competitors",
-      "link": "https://www.pymnts.com/back-office/cfo/2026/cfo-caution-creates-an-opening-for-bolder-competitors/",
-      "date": "Sep 4, 2026",
-      "desc": "Corporate America may have a capital allocation problem hiding inside its risk management discipline. The PYMNTS Intelligence report “The Cost of Caution: Why…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "Anthropic launches AI commerce agents with Visa and Mastercard",
-      "link": "https://www.finextra.com/newsarticle/48346/anthropic-launches-ai-commerce-agents-with-visa-and-mastercard?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 4, 2026",
-      "desc": "AI firm Anthropic, which created Claude, launched a blueprint for retailers to build their own shopping agents on the AI chatbot.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
