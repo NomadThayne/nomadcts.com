@@ -1,11 +1,43 @@
 {
-  "updated": "Sep 11, 2026 at 12:24 UTC",
+  "updated": "Sep 12, 2026 at 11:45 UTC",
   "articles": [
     {
-      "title": "Squint’s Founder Turns Factory Know-How Into AI’s Starting Point",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/squints-founder-turns-factory-know-how-into-ais-starting-point/",
+      "title": "The Tooth Fairy Approves a 17% Raise",
+      "link": "https://www.pymnts.com/digital-payments/2026/tooth-fairy-approves-17percent-raise/",
+      "date": "Sep 12, 2026",
+      "desc": "The tooth fairy has approved a 17% pay increase, which is excellent news for anyone whose compensation package includes loose incisors. There was no…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "OpenAI launches ChatGPT for Financial Service",
+      "link": "https://www.finextra.com/newsarticle/48391/openai-launches-chatgpt-for-financial-service?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Sep 11, 2026",
-      "desc": "Ask a veteran factory technician how to fix a machine that’s acting up, and the answer might sound less like an engineering manual and more like folklore: if…",
+      "desc": "Open AI has launched a dedicated version of ChatGPT for financial services designed to help firms develop research, models, and customised client materials.",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "Apple Enables One-Tap Gift Card Redemption in Upcoming iOS Update",
+      "link": "https://www.pymnts.com/apple/2026/apple-enables-one-tap-gift-card-redemption-upcoming-ios-update/",
+      "date": "Sep 11, 2026",
+      "desc": "Apple’s upcoming mobile operating system, iOS 27, will enable users to redeem Apple gift cards by tapping them on a compatible iPhone, MacRumors reported…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "NatWest hires former Ikea exec to lead customer experience and digital engagement",
+      "link": "https://www.finextra.com/newsarticle/48387/natwest-hires-former-ikea-exec-to-lead-customer-experience-and-digital-engagement?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Sep 11, 2026",
+      "desc": "NatWest has brought in banking outsider and Ikea executive Harsh Agarwal as manging director, customer experience and engagement.",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "AI Startup Cohere Targets $20 Billion Valuation in Funding Round",
+      "link": "https://www.pymnts.com/startups/2026/ai-startup-cohere-targets-20-billion-dollar-valuation-funding-round/",
+      "date": "Sep 11, 2026",
+      "desc": "Artificial intelligence startup Cohere is in advanced talks to raise between $2 billion and $3 billion at a valuation of $20 billion, The Globe and Mail…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -14,38 +46,6 @@
       "link": "https://www.finextra.com/newsarticle/48386/72-of-us-consumers-have-used-an-ai-assistant--visa-trust-index?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Sep 11, 2026",
       "desc": "New research from Visa Trust Index revealed that consumers are increasingly using AI in their payment journey.",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "Visa Direct Targets Cross-Border Trade’s SMB Payment Gap",
-      "link": "https://www.pymnts.com/news/cross-border-payments/2026/visa-direct-targets-cross-border-trades-smb-payment-gap/",
-      "date": "Sep 11, 2026",
-      "desc": "Watch more: PYMNTS On Air With Justin Zhao of Visa Direct and Ran Grushkowsky of MassPay  A small business can find a customer, supplier or contractor halfway…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "Greenly and Normative announce merger to boost climate data reporting",
-      "link": "https://www.finextra.com/newsarticle/48385/greenly-and-normative-announce-merger-to-boost-climate-data-reporting?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 11, 2026",
-      "desc": "Carbon accounting platforms Greenly and Normative have announced their merge to create a single climate software system.",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "FinTechs See 146 Million Reasons to Target Credit Unions",
-      "link": "https://www.pymnts.com/credit-unions/2026/fintechs-see-146-million-reasons-to-target-credit-unions/",
-      "date": "Sep 11, 2026",
-      "desc": "FinTechs once saw credit unions as a hard market to crack. Now the door is crowded, and many providers want a way inside. “FinTechs Want In: How Credit Unions…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "Coinbase and Moov partner to boost stablecoin payments for community banks ahead of CLARITY vote",
-      "link": "https://www.finextra.com/newsarticle/48384/coinbase-and-moov-partner-to-boost-stablecoin-payments-for-community-banks-ahead-of-clarity-vote?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 11, 2026",
-      "desc": "Cryptocurrency platform has partnered with fintech firm Moov to boost stablecoin capabilities for community banks ahead of the US Senate votes on the CLARITY…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
