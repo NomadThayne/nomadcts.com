@@ -1,51 +1,51 @@
 {
-  "updated": "Sep 13, 2026 at 12:53 UTC",
+  "updated": "Sep 14, 2026 at 14:31 UTC",
   "articles": [
     {
-      "title": "The Tooth Fairy Approves a 17% Raise",
-      "link": "https://www.pymnts.com/digital-payments/2026/tooth-fairy-approves-17percent-raise/",
-      "date": "Sep 12, 2026",
-      "desc": "The tooth fairy has approved a 17% pay increase, which is excellent news for anyone whose compensation package includes loose incisors. There was no…",
+      "title": "Amodei’s AI Safety Plan Comes With a Catch",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-ceo-dario-amodei-ai-safety-plan-comes-with-catch/",
+      "date": "Sep 14, 2026",
+      "desc": "Anthropic CEO and Co-Founder Dario Amodei said he wants independent evaluators inside leading artificial intelligence companies and governments to slow the…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "OpenAI launches ChatGPT for Financial Service",
-      "link": "https://www.finextra.com/newsarticle/48391/openai-launches-chatgpt-for-financial-service?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 11, 2026",
-      "desc": "Open AI has launched a dedicated version of ChatGPT for financial services designed to help firms develop research, models, and customised client materials.",
+      "title": "Revolut hit by data breach after fake government email scam",
+      "link": "https://www.finextra.com/newsarticle/48396/revolut-hit-by-data-breach-after-fake-government-email-scam?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Sep 14, 2026",
+      "desc": "Revolut has confirmed that it disclosed sensitive customer information, including passports, after receiving fraudulent requests sent from a legitimate…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Apple Enables One-Tap Gift Card Redemption in Upcoming iOS Update",
-      "link": "https://www.pymnts.com/apple/2026/apple-enables-one-tap-gift-card-redemption-upcoming-ios-update/",
-      "date": "Sep 11, 2026",
-      "desc": "Apple’s upcoming mobile operating system, iOS 27, will enable users to redeem Apple gift cards by tapping them on a compatible iPhone, MacRumors reported…",
+      "title": "AI Helps Make Fraud 4.5 Times as Profitable for Scammers",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-helps-make-fraud-4-5-times-as-profitable-for-scammers/",
+      "date": "Sep 14, 2026",
+      "desc": "Fraudsters are reportedly trading massive scam operations for smaller and more profitable schemes using artificial intelligence (AI). That’s according to Giles…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "NatWest hires former Ikea exec to lead customer experience and digital engagement",
-      "link": "https://www.finextra.com/newsarticle/48387/natwest-hires-former-ikea-exec-to-lead-customer-experience-and-digital-engagement?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 11, 2026",
-      "desc": "NatWest has brought in banking outsider and Ikea executive Harsh Agarwal as manging director, customer experience and engagement.",
+      "title": "Saudi fintech Tabby raises $233m",
+      "link": "https://www.finextra.com/newsarticle/48395/saudi-fintech-tabby-raises-233m?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Sep 14, 2026",
+      "desc": "Tabby, a Saudi-based fintech, has seen its valuation rise to $6.5bn after completing its latest funding round.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "AI Startup Cohere Targets $20 Billion Valuation in Funding Round",
-      "link": "https://www.pymnts.com/startups/2026/ai-startup-cohere-targets-20-billion-dollar-valuation-funding-round/",
-      "date": "Sep 11, 2026",
-      "desc": "Artificial intelligence startup Cohere is in advanced talks to raise between $2 billion and $3 billion at a valuation of $20 billion, The Globe and Mail…",
+      "title": "Amazon Is Becoming a Gateway to ChatGPT Ads",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-is-becoming-a-gateway-to-chatgpt-ads/",
+      "date": "Sep 14, 2026",
+      "desc": "Amazon Ads has announced a partnership with OpenAI, letting select U.S. advertisers extend their existing Amazon campaigns directly into ChatGPT, Amazon said.…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "72% of US consumers have used an AI assistant – Visa Trust Index",
-      "link": "https://www.finextra.com/newsarticle/48386/72-of-us-consumers-have-used-an-ai-assistant--visa-trust-index?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 11, 2026",
-      "desc": "New research from Visa Trust Index revealed that consumers are increasingly using AI in their payment journey.",
+      "title": "Pave raises $15m for AI-powered portfolio management platform",
+      "link": "https://www.finextra.com/newsarticle/48389/pave-raises-15m-for-ai-powered-portfolio-management-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Sep 14, 2026",
+      "desc": "AI-powered portfolio management platform for financial advisors Pave Finance has raised over $15 million at a $100 million pre-money valuation in an…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
