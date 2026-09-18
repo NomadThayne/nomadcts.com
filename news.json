@@ -1,51 +1,51 @@
 {
-  "updated": "Sep 17, 2026 at 12:50 UTC",
+  "updated": "Sep 18, 2026 at 12:25 UTC",
   "articles": [
     {
-      "title": "Port of LA Fended Off 120 Million Cyberattacks in August",
-      "link": "https://www.pymnts.com/cybersecurity/2026/port-of-la-fended-off-120-million-cyberattacks-in-august/",
-      "date": "Sep 17, 2026",
-      "desc": "The Port of Los Angeles reportedly blocked more than 120 million cyberattacks during August. That’s according to a report Thursday (Sept. 17) by Bloomberg…",
+      "title": "AI Agents Become the Next Payments Customer",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-become-the-next-payments-customer/",
+      "date": "Sep 18, 2026",
+      "desc": "Watch more: Digital Shift With Viggo Stenseth of SolvaPay The payments industry has devoted much effort to making sure a bot can’t pass for a customer. Agentic…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Wealthtech platform Envestnet to acquire Vestmark",
-      "link": "https://www.finextra.com/newsarticle/48423/wealthtech-platform-envestnet-to-acquire-vestmark?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 17, 2026",
-      "desc": "Wealthtech platform Envestnet is to acquire portfolio management tech firm Vestmark as consolidation continues in the wealth management software space.",
+      "title": "Ex-PayPal CEO Harris unveils AI-powered personal finance app",
+      "link": "https://www.finextra.com/newsarticle/48428/ex-paypal-ceo-harris-unveils-ai-powered-personal-finance-app?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Sep 18, 2026",
+      "desc": "Former PayPal and Intuit CEO Bill Harris has unveiled his latest venture, a personalised AI-powered financial advice app called Evergreen.ai.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "EXCLUSIVE: Affirm Rebuilds Underwriting to Approve Borrowers a Credit Score Can’t See",
-      "link": "https://www.pymnts.com/bnpl/2026/exclusive-affirm-rebuilds-underwriting-to-approve-borrowers-a-credit-score-cant-see/",
-      "date": "Sep 17, 2026",
-      "desc": "Affirm has started using a new real-time underwriting model at U.S. checkouts that approves consumers its previous models would have declined, including…",
+      "title": "Card Installment Use Jumps 13 Percentage Points as BNPL Holds Steady",
+      "link": "https://www.pymnts.com/credit-cards/2026/card-installment-use-jumps-13-percentage-points-as-bnpl-holds-steady/",
+      "date": "Sep 18, 2026",
+      "desc": "Credit card installment plans are turning the biggest promise of buy now, pay later (BNPL) into an advantage for the card industry. A PYMNTS Intelligence…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Zopa rolls out personal banking agent",
-      "link": "https://www.finextra.com/newsarticle/48414/zopa-rolls-out-personal-banking-agent?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 17, 2026",
-      "desc": "UK bank Zopa is rolling out a conversational AI to current account customers, billing it as an 'always-on personal banker'.",
+      "title": "FCA cracks down on illegal crypto trading in London",
+      "link": "https://www.finextra.com/newsarticle/48431/fca-cracks-down-on-illegal-crypto-trading-in-london?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Sep 18, 2026",
+      "desc": "The Financial Conduct Authority (FCA) has taken action to shut down an illegal peer-to-peer crypto trading operation in three suspected premises across London.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Revolut Hackers Issue $3 Million Ransom for Customer Data",
-      "link": "https://www.pymnts.com/cybersecurity/2026/revolut-hackers-issue-3-million-ransom-for-customer-data/",
-      "date": "Sep 17, 2026",
-      "desc": "Hackers claiming to have breached British FinTech Revolut have now reportedly issued a ransom demand. The group, known as “iamnotavillain,” is threatening to…",
+      "title": "Issuers Race to Win Spending Before the Card Arrives",
+      "link": "https://www.pymnts.com/digital-payments/2026/issuers-race-to-win-spending-before-the-card-arrives/",
+      "date": "Sep 18, 2026",
+      "desc": "Waiting for a physical card to arrive is becoming less relevant to the moment when an issuer can start competing for a cardholder’s spending. PYMNTS…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Amex launches business savings account",
-      "link": "https://www.finextra.com/newsarticle/48420/amex-launches-business-savings-account?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 17, 2026",
-      "desc": "American Express has launched a business high-yield savings account designed to help users earn more on their deposits and manage their finances in one place.",
+      "title": "74% of top 50 North American investors are assessing climate risks - Ceres",
+      "link": "https://www.finextra.com/newsarticle/48430/74-of-top-50-north-american-investors-are-assessing-climate-risks---ceres?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Sep 18, 2026",
+      "desc": "Data from non-profit sustainability-focused organisation Ceres found that the top 50 North American investors are continuing with climate action quietly.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
