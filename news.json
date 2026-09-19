@@ -1,11 +1,43 @@
 {
-  "updated": "Sep 18, 2026 at 12:25 UTC",
+  "updated": "Sep 19, 2026 at 12:07 UTC",
   "articles": [
     {
-      "title": "AI Agents Become the Next Payments Customer",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-become-the-next-payments-customer/",
+      "title": "Santa Would Like a Word With Your Pumpkin",
+      "link": "https://www.pymnts.com/news/retail/2026/santa-would-like-word-with-your-pumpkin/",
+      "date": "Sep 19, 2026",
+      "desc": "Santa has apparently checked his calendar and decided Halloween has had quite enough time. Amazon, Target and Walmart are lining up overlapping October sales,…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "ECB chief Lagarde helped block Binance's MiCA license - WSJ",
+      "link": "https://www.finextra.com/newsarticle/48434/ecb-chief-lagarde-helped-block-binances-mica-license---wsj?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Sep 18, 2026",
-      "desc": "Watch more: Digital Shift With Viggo Stenseth of SolvaPay The payments industry has devoted much effort to making sure a bot can’t pass for a customer. Agentic…",
+      "desc": "European Central Bank president Christine Lagarde intervened to help stop crypto giant Binance secure a license under the EU’s Markets in Crypto-Assets (MiCA)…",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "Anthropic Targets November IPO as Revenue Surges",
+      "link": "https://www.pymnts.com/news/investment-tracker/ipo/2026/anthropic-targets-november-ipo-revenue-surges/",
+      "date": "Sep 19, 2026",
+      "desc": "Anthropic plans to launch its initial public offering in November, later than the October debut many investors had expected, The Wall Street Journal reported…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "SEC clears way for tokenised stock trading",
+      "link": "https://www.finextra.com/newsarticle/48432/sec-clears-way-for-tokenised-stock-trading?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Sep 18, 2026",
+      "desc": "The Securities and Exchange Commission has issued an order that enables the trading of tokenised stocks.",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "Avant Seeks National Bank Charter to Serve Customers Directly",
+      "link": "https://www.pymnts.com/news/banking/2026/avant-seeks-national-bank-charter-serve-customers-directly/",
+      "date": "Sep 18, 2026",
+      "desc": "FinTech company Avant filed an application to establish an insured national bank called Avant Bank, N.A., the company said in a Friday (Sept. 18) press…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -14,38 +46,6 @@
       "link": "https://www.finextra.com/newsarticle/48428/ex-paypal-ceo-harris-unveils-ai-powered-personal-finance-app?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Sep 18, 2026",
       "desc": "Former PayPal and Intuit CEO Bill Harris has unveiled his latest venture, a personalised AI-powered financial advice app called Evergreen.ai.",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "Card Installment Use Jumps 13 Percentage Points as BNPL Holds Steady",
-      "link": "https://www.pymnts.com/credit-cards/2026/card-installment-use-jumps-13-percentage-points-as-bnpl-holds-steady/",
-      "date": "Sep 18, 2026",
-      "desc": "Credit card installment plans are turning the biggest promise of buy now, pay later (BNPL) into an advantage for the card industry. A PYMNTS Intelligence…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "FCA cracks down on illegal crypto trading in London",
-      "link": "https://www.finextra.com/newsarticle/48431/fca-cracks-down-on-illegal-crypto-trading-in-london?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 18, 2026",
-      "desc": "The Financial Conduct Authority (FCA) has taken action to shut down an illegal peer-to-peer crypto trading operation in three suspected premises across London.",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "Issuers Race to Win Spending Before the Card Arrives",
-      "link": "https://www.pymnts.com/digital-payments/2026/issuers-race-to-win-spending-before-the-card-arrives/",
-      "date": "Sep 18, 2026",
-      "desc": "Waiting for a physical card to arrive is becoming less relevant to the moment when an issuer can start competing for a cardholder’s spending. PYMNTS…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "74% of top 50 North American investors are assessing climate risks - Ceres",
-      "link": "https://www.finextra.com/newsarticle/48430/74-of-top-50-north-american-investors-are-assessing-climate-risks---ceres?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 18, 2026",
-      "desc": "Data from non-profit sustainability-focused organisation Ceres found that the top 50 North American investors are continuing with climate action quietly.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
