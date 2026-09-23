@@ -1,51 +1,51 @@
 {
-  "updated": "Sep 22, 2026 at 12:53 UTC",
+  "updated": "Sep 23, 2026 at 13:05 UTC",
   "articles": [
     {
-      "title": "Russian FinTech Allegedly Laundered $6.9 Billion Via Global Banks",
-      "link": "https://www.pymnts.com/news/banking/2026/russian-fintech-allegedly-laundered-6-9-billion-via-global-banks/",
-      "date": "Sep 22, 2026",
-      "desc": "Some of the world’s largest banks have reportedly handled billions of dollars for a Kremlin-backed FinTech that used forgery to enter the international…",
+      "title": "Amazon’s Seller AI Graduates From Chatbot to Operating System",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-seller-ai-graduates-from-chatbot-operating-system/",
+      "date": "Sep 23, 2026",
+      "desc": "Amazon’s next artificial intelligence push for merchants is less about giving sellers better answers than reducing how often they need to ask questions at all.…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Monzo EU chief quits to launch his own startup",
-      "link": "https://www.finextra.com/newsarticle/48451/monzo-eu-chief-quits-to-launch-his-own-startup?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 22, 2026",
-      "desc": "Monzo's EU CEO Micchael Carney has quit the bank five months after its Irish launch to form his own startup company.",
+      "title": "Argentex founder Harry Adams raises £7.5 million for new startup Tenora",
+      "link": "https://www.finextra.com/newsarticle/48461/argentex-founder-harry-adams-raises-75-million-for-new-startup-tenora?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Sep 23, 2026",
+      "desc": "Harry Adams, founder of collapsed foreign exchange firm Argentex, has secured £7.5m in funding for his new fintech venture Tenora, as the startup expands its…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Credit Card Issuers’ Biggest Rival May Already Be in the Wallet",
-      "link": "https://www.pymnts.com/consumer-finance/2026/credit-card-issuers-biggest-rival-may-already-be-in-the-wallet/",
-      "date": "Sep 22, 2026",
-      "desc": "Credit card issuers can lose a customer’s spending without losing the customer. Among consumers who changed their primary credit card in the past two years,…",
+      "title": "JPMorgan Weighs Opening Card Business to Private Credit",
+      "link": "https://www.pymnts.com/news/2026/jpmorgan-weighs-opening-card-business-to-private-credit/",
+      "date": "Sep 23, 2026",
+      "desc": "J.P. Morgan Chase is reportedly exploring whether other funding sources could approve some of the cards it rejects. That&#8217;s according to a report late…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Agent workflow platform Promenaut goes live at HSBC",
-      "link": "https://www.finextra.com/newsarticle/48450/agent-workflow-platform-promenaut-goes-live-at-hsbc?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 22, 2026",
-      "desc": "US-based agentic workforce platform Promenaut has gone into production at HSBC, delivering agent orchestration to specialised workflows within the bank’s…",
+      "title": "Tink founders return with agentic compliance startup",
+      "link": "https://www.finextra.com/newsarticle/48459/tink-founders-return-with-agentic-compliance-startup?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Sep 23, 2026",
+      "desc": "Daniel Kjellén and Fredrik Hedberg, founders of the open banking platform Tink, which was acquired by Visa for $2.2B, have launched a new bootstrapped agentic…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Uncertainty Holds Back Middle Market CFOs’ Spending Plans",
-      "link": "https://www.pymnts.com/back-office/cfo/2026/uncertainty-holds-back-middle-market-cfos-spending-plans/",
-      "date": "Sep 22, 2026",
-      "desc": "For middle market companies, greater certainty and higher investment often go together: 59% of firms with rising certainty increased capital spending. That…",
+      "title": "Anthropic and OpenEvidence Team to Expand Reach of Medical AI",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-openevidence-team-to-expand-reach-of-medical-ai/",
+      "date": "Sep 23, 2026",
+      "desc": "Anthropic has reportedly launched a partnership with artificial intelligence (AI)-powered medical search engine provider OpenEvidence. This collaboration is…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Nationwide taps Equifax to give customers free access to their credit scores",
-      "link": "https://www.finextra.com/newsarticle/48449/nationwide-taps-equifax-to-give-customers-free-access-to-their-credit-scores?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 22, 2026",
-      "desc": "Nationwide Building Society is working with Equifax to provide its six million customers with instant, free access to their credit score directly within its…",
+      "title": "Deutsche Bank estimates 30% uplift in client onboarding by deploying KYC AI",
+      "link": "https://www.finextra.com/newsarticle/48452/deutsche-bank-estimates-30-uplift-in-client-onboarding-by-deploying-kyc-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Sep 23, 2026",
+      "desc": "Deutsche Bank Private Bank has deployed an Agentic AI-enabled Source of Wealth solution across its Singapore and Hong Kong booking centres to streamline the…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
