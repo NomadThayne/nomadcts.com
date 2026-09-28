@@ -1,51 +1,51 @@
 {
-  "updated": "Sep 27, 2026 at 13:22 UTC",
+  "updated": "Sep 28, 2026 at 16:10 UTC",
   "articles": [
     {
-      "title": "New York City Gives the Public Bathroom a Tap Card",
-      "link": "https://www.pymnts.com/pymnts-features/the-weekender/2026/new-york-city-gives-the-public-bathroom-a-tap-card/",
-      "date": "Sep 26, 2026",
-      "desc": "New York City has found a new use for the tap card: opening a public toilet. The city is installing 17 modular bathrooms across its five boroughs. Visitors can…",
+      "title": "Fed Finds B2B Payments Went Digital, but the Paperwork Didn’t",
+      "link": "https://www.pymnts.com/news/b2b-payments/2026/federal-reserve-finds-b2b-payments-went-digital-paperwork-did-not/",
+      "date": "Sep 28, 2026",
+      "desc": "In 2024, the B2B payments conversation centered on moving businesses away from checks and toward electronic transactions. Two years later, the industry has…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Bitget hit by $387.5 million hack",
-      "link": "https://www.finextra.com/newsarticle/48481/bitget-hit-by-3875-million-hack?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 25, 2026",
-      "desc": "Bitget has halted customer withdrawals after hackers that the crypto exchange suspects are linked to North Korea stole more than $380 million.",
+      "title": "Swift provdes cross-border gateway to Bizum, PayID and Pix users",
+      "link": "https://www.finextra.com/newsarticle/48488/swift-provdes-cross-border-gateway-to-bizum-payid-and-pix-users?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Sep 28, 2026",
+      "desc": "Swift has launched an initiative to bring the pay-by-alias experience of domestic national payment systems, Bizum, PayID and Pix, to cross-border transactions,…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Block Joins x402 Foundation to Drive Agentic Commerce Standards",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/block-joins-x402-foundation-to-drive-agentic-commerce-standards/",
-      "date": "Sep 25, 2026",
-      "desc": "Block has joined the x402 Foundation to help advance open, agentic commerce, Steve Reis, head of product, Block Financial Platform, said in a Thursday (Sept.…",
+      "title": "US Looks to Stablecoins To Bolster Dollar’s Reserve Status",
+      "link": "https://www.pymnts.com/blockchain/2026/us-looks-to-stablecoins-to-bolster-dollars-reserve-status/",
+      "date": "Sep 28, 2026",
+      "desc": "A sharp sell-off in U.S. government bonds is adding urgency to the Trump administration’s effort to turn dollar-backed stablecoins into a new source of demand…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "NatWest unveils AI-powered audio-visual spending insights tool",
-      "link": "https://www.finextra.com/newsarticle/48480/natwest-unveils-ai-powered-audio-visual-spending-insights-tool?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 25, 2026",
-      "desc": "NatWest is set to trial a fully generative audio-visual AI spending insights tool that lets customers explore their finances through natural voice and text…",
+      "title": "BNY unveils Pay-to-Wallet technology option for banks",
+      "link": "https://www.finextra.com/newsarticle/48487/bny-unveils-pay-to-wallet-technology-option-for-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Sep 28, 2026",
+      "desc": "BNY has unveiled a Pay-to-Wallet capability, making it possible for banks to send cross-border payments from bank accounts to participating retail digital…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Costco Wins Younger Shoppers With Expanded Third-Party Same-Day Delivery",
-      "link": "https://www.pymnts.com/earnings/2026/costco-wins-younger-shoppers-with-expanded-third-party-same-day-delivery/",
-      "date": "Sep 25, 2026",
-      "desc": "Costco’s third-party same-day delivery offering is helping draw younger customers to the retailer, CEO Ron Vachris said Thursday (Sept. 24) during the…",
+      "title": "Fraud Trends Put Fragmented Defenses Under Pressure",
+      "link": "https://www.pymnts.com/cybersecurity/2026/fraud-trends-put-fragmented-defenses-under-pressure/",
+      "date": "Sep 28, 2026",
+      "desc": "The 43% of scam victims who pay fraudsters within an hour present banks with an obvious problem. There may be almost no time to stop the transaction. The 18%…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "US prosecutors seize Tether-linked payment firm's bank accounts - FT",
-      "link": "https://www.finextra.com/newsarticle/48478/us-prosecutors-seize-tether-linked-payment-firms-bank-accounts---ft?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 25, 2026",
-      "desc": "US federal prosecutors have seized bank accounts belonging Capstone, a payments business working on behalf of stablecoin issuer Tether and its sister exchange…",
+      "title": "US banks invited to join Apple Pay class lawsuit",
+      "link": "https://www.finextra.com/newsarticle/48486/us-banks-invited-to-join-apple-pay-class-lawsuit?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Sep 28, 2026",
+      "desc": "US banks have been given the green light to pursue a class action lawsuit against Apple over historical fees paid for access to the firm's mobile wallet.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
