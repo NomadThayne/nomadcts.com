@@ -1,51 +1,51 @@
 {
-  "updated": "Sep 28, 2026 at 16:10 UTC",
+  "updated": "Sep 29, 2026 at 14:24 UTC",
   "articles": [
     {
-      "title": "Fed Finds B2B Payments Went Digital, but the Paperwork Didn’t",
-      "link": "https://www.pymnts.com/news/b2b-payments/2026/federal-reserve-finds-b2b-payments-went-digital-paperwork-did-not/",
-      "date": "Sep 28, 2026",
-      "desc": "In 2024, the B2B payments conversation centered on moving businesses away from checks and toward electronic transactions. Two years later, the industry has…",
+      "title": "El Salvador Shifts to Stablecoins as Bitcoin Payments Wane",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/el-salvador-shifts-to-stablecoins-as-bitcoin-payments-wane/",
+      "date": "Sep 29, 2026",
+      "desc": "Five years ago, the government of El Salvador made bitcoin legal tender in the country. Now, the country’s government is shifting to another form of…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Swift provdes cross-border gateway to Bizum, PayID and Pix users",
-      "link": "https://www.finextra.com/newsarticle/48488/swift-provdes-cross-border-gateway-to-bizum-payid-and-pix-users?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 28, 2026",
-      "desc": "Swift has launched an initiative to bring the pay-by-alias experience of domestic national payment systems, Bizum, PayID and Pix, to cross-border transactions,…",
+      "title": "HSBC rolls out new digital transaction banking platform",
+      "link": "https://www.finextra.com/newsarticle/48493/hsbc-rolls-out-new-digital-transaction-banking-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Sep 29, 2026",
+      "desc": "HSBC has vowed to reduce complexity for corporate clients with the roll out of a new digital transaction banking platform.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "US Looks to Stablecoins To Bolster Dollar’s Reserve Status",
-      "link": "https://www.pymnts.com/blockchain/2026/us-looks-to-stablecoins-to-bolster-dollars-reserve-status/",
-      "date": "Sep 28, 2026",
-      "desc": "A sharp sell-off in U.S. government bonds is adding urgency to the Trump administration’s effort to turn dollar-backed stablecoins into a new source of demand…",
+      "title": "Oura Halts Plans to Go Public Amid Market Uncertainty",
+      "link": "https://www.pymnts.com/news/wearables/2026/oura-halts-plans-to-go-public-amid-market-uncertainty/",
+      "date": "Sep 29, 2026",
+      "desc": "Smart ring maker Oura has paused plans to go public, citing uncertain market conditions. The company’s initial public offering (IPO) had been slated for this…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "BNY unveils Pay-to-Wallet technology option for banks",
-      "link": "https://www.finextra.com/newsarticle/48487/bny-unveils-pay-to-wallet-technology-option-for-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 28, 2026",
-      "desc": "BNY has unveiled a Pay-to-Wallet capability, making it possible for banks to send cross-border payments from bank accounts to participating retail digital…",
+      "title": "Anthropic prospectus warns of 'existential threat to humanity'",
+      "link": "https://www.finextra.com/newsarticle/48492/anthropic-prospectus-warns-of-existential-threat-to-humanity?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Sep 29, 2026",
+      "desc": "Anthropic is inviting stock pickers to invest in no future, as its long-awaited IPO prospectus warns that its models could pose a 'catastrophic or existential…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Fraud Trends Put Fragmented Defenses Under Pressure",
-      "link": "https://www.pymnts.com/cybersecurity/2026/fraud-trends-put-fragmented-defenses-under-pressure/",
-      "date": "Sep 28, 2026",
-      "desc": "The 43% of scam victims who pay fraudsters within an hour present banks with an obvious problem. There may be almost no time to stop the transaction. The 18%…",
+      "title": "Bank of America Launches Cross-Border Real-Time Payments Solution",
+      "link": "https://www.pymnts.com/real-time-payments/2026/bank-of-america-launches-cross-border-real-time-payments-solution/",
+      "date": "Sep 29, 2026",
+      "desc": "Bank of America’s Cross-Border Real-Time Payments solution has completed its first transaction, the bank said in a Tuesday (Sept. 29) press release emailed to…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "US banks invited to join Apple Pay class lawsuit",
-      "link": "https://www.finextra.com/newsarticle/48486/us-banks-invited-to-join-apple-pay-class-lawsuit?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Sep 28, 2026",
-      "desc": "US banks have been given the green light to pursue a class action lawsuit against Apple over historical fees paid for access to the firm's mobile wallet.",
+      "title": "Sibos 2026: BofA expands payments capabilities with new intelligence and real-time services",
+      "link": "https://www.finextra.com/newsarticle/48483/sibos-2026-bofa-expands-payments-capabilities-with-new-intelligence-and-real-time-services?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Sep 29, 2026",
+      "desc": "At Sibos 2026, held in Miami, Bank of America announced numerous updates across its banking services that tap into the opportunities offered by advanced…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
