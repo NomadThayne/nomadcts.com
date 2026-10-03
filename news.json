@@ -1,11 +1,27 @@
 {
-  "updated": "Oct 2, 2026 at 14:15 UTC",
+  "updated": "Oct 3, 2026 at 12:48 UTC",
   "articles": [
     {
-      "title": "Smart Shopping Agents Still Need Someone to Vouch for Them",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/smart-shopping-agents-still-need-someone-to-vouch-for-them/",
+      "title": "Meet the DINKWADs, HENRYs and Elder Millennials Spending Their Own Way",
+      "link": "https://www.pymnts.com/news/retail/2026/meet-dinkwads-henrys-elder-millennials-spending-their-own-way/",
+      "date": "Oct 3, 2026",
+      "desc": "The economy has a growing collection of oddly named consumers. One has two incomes, no children and a dog. Another earns plenty but has yet to build much…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "YouTuber raises $15m for Brazil's 'Cash App'",
+      "link": "https://www.finextra.com/newsarticle/48527/youtuber-raises-15m-for-brazils-cash-app?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Oct 2, 2026",
-      "desc": "Watch more: What’s Next in Payments With Synchrony’s Mike Storiale Artificial intelligence can already recommend the running shoes. The payments industry still…",
+      "desc": "NG.Cash, the \"Brazilian Cash App\" founded by a former YouTuber, has raised $15 million to back its efforts to bring credit and crypto services to the country's…",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "ICBA Sues OCC to Stop Alleged Fast-Track of Crypto Bank Charters",
+      "link": "https://www.pymnts.com/legal/bank-regulation/2026/icba-sues-occ-to-stop-alleged-fast-track-of-crypto-bank-charters/",
+      "date": "Oct 3, 2026",
+      "desc": "Independent Community Bankers of America sued the Office of the Comptroller of the Currency, alleging that the regulator authorized cryptocurrency firms to…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -18,10 +34,10 @@
       "cssClass": "source-finextra"
     },
     {
-      "title": "AI Could End Finance’s Point-and-Click Era",
-      "link": "https://www.pymnts.com/news/b2b-payments/2026/ai-could-end-finances-point-and-click-era/",
+      "title": "BNY and Kraken Parent Payward Eye Global Financial Infrastructure Partnership",
+      "link": "https://www.pymnts.com/partnerships/2026/bny-and-kraken-parent-payward-eye-global-financial-infrastructure-partnership/",
       "date": "Oct 2, 2026",
-      "desc": "Watch more: What’s Next in Payments With Billtrust’s Dave Ruda The finance technology playbook was once relatively straightforward. CFOs built out their…",
+      "desc": "BNY and Kraken parent company Payward are discussing a partnership that would span digital assets and financial market infrastructure, CoinDesk reported Friday…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -30,22 +46,6 @@
       "link": "https://www.finextra.com/newsarticle/48519/barclays-ramps-up-use-of-anthropics-claude?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Oct 2, 2026",
       "desc": "Barclays is extending its use of Anthropic's Claude in an effort to accelerate software development, modernise its legacy systems and boost operational…",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "Tighter Budgets Push Grocery Shoppers Online",
-      "link": "https://www.pymnts.com/consumer-insights/2026/tighter-budgets-push-grocery-shoppers-online/",
-      "date": "Oct 2, 2026",
-      "desc": "Consumers under financial pressure are buying bigger baskets and choosing value-focused merchants, giving retailers an opportunity to help shoppers make each…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "Monarch acquires HMBradley",
-      "link": "https://www.finextra.com/newsarticle/48523/monarch-acquires-hmbradley?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 2, 2026",
-      "desc": "Personal finance platform Monarch has acquired MBI, the digital banking fintech formerly known as HMBradley.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
