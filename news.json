@@ -1,51 +1,51 @@
 {
-  "updated": "Oct 4, 2026 at 13:31 UTC",
+  "updated": "Oct 5, 2026 at 16:31 UTC",
   "articles": [
     {
-      "title": "Meet the DINKWADs, HENRYs and Elder Millennials Spending Their Own Way",
-      "link": "https://www.pymnts.com/news/retail/2026/meet-dinkwads-henrys-elder-millennials-spending-their-own-way/",
-      "date": "Oct 3, 2026",
-      "desc": "The economy has a growing collection of oddly named consumers. One has two incomes, no children and a dog. Another earns plenty but has yet to build much…",
+      "title": "OpenAI Helps Albertsons Expand Its AI-Powered Grocery Offerings",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-helps-albertsons-expand-its-ai-powered-grocery-offerings/",
+      "date": "Oct 5, 2026",
+      "desc": "Grocery giant Albertsons has teamed with OpenAI to enhance its artificial intelligence (AI) offerings for shoppers and employees. “Digital shopping, store…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "YouTuber raises $15m for Brazil's 'Cash App'",
-      "link": "https://www.finextra.com/newsarticle/48527/youtuber-raises-15m-for-brazils-cash-app?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 2, 2026",
-      "desc": "NG.Cash, the \"Brazilian Cash App\" founded by a former YouTuber, has raised $15 million to back its efforts to bring credit and crypto services to the country's…",
+      "title": "South Korean president orders investigation after spate of bank data breaches",
+      "link": "https://www.finextra.com/newsarticle/48533/south-korean-president-orders-investigation-after-spate-of-bank-data-breaches?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Oct 5, 2026",
+      "desc": "South Korea's president, Lee Jae Myung, has ordered an investigation into a series of data breaches at banks in the country.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "ICBA Sues OCC to Stop Alleged Fast-Track of Crypto Bank Charters",
-      "link": "https://www.pymnts.com/legal/bank-regulation/2026/icba-sues-occ-to-stop-alleged-fast-track-of-crypto-bank-charters/",
-      "date": "Oct 3, 2026",
-      "desc": "Independent Community Bankers of America sued the Office of the Comptroller of the Currency, alleging that the regulator authorized cryptocurrency firms to…",
+      "title": "Constructor Teams With Stripe to Debut Agentic Checkout Tool",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/constructor-teams-with-stripe-to-debut-agentic-checkout-tool/",
+      "date": "Oct 5, 2026",
+      "desc": "Product discovery platform Constructor has introduced a new Stripe-integrated agentic commerce offering. Agentic Checkout, announced in a Monday (Oct. 5) news…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Lloyds survey reveals 71% of UK FIs believe tokenisation will reshape financial services",
-      "link": "https://www.finextra.com/newsarticle/48526/lloyds-survey-reveals-71-of-uk-fis-believe-tokenisation-will-reshape-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 2, 2026",
-      "desc": "Lloyds' 10th annual Financial Institutions Sentiment Survey, conducted between April and May 2026, showed that 71% of the 100 senior leaders surveyed across UK…",
+      "title": "Basware buys payment fraud prevention platform Trustpair",
+      "link": "https://www.finextra.com/newsarticle/48532/basware-buys-payment-fraud-prevention-platform-trustpair?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Oct 5, 2026",
+      "desc": "Invoice lifecycle management firm Basware has acquired payment fraud prevention platform Trustpair. Financial terms were not disclosed.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "BNY and Kraken Parent Payward Eye Global Financial Infrastructure Partnership",
-      "link": "https://www.pymnts.com/partnerships/2026/bny-and-kraken-parent-payward-eye-global-financial-infrastructure-partnership/",
-      "date": "Oct 2, 2026",
-      "desc": "BNY and Kraken parent company Payward are discussing a partnership that would span digital assets and financial market infrastructure, CoinDesk reported Friday…",
+      "title": "AI Targets Trade Finance’s Paperwork Bottleneck",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-targets-trade-finance-paperwork-bottleneck/",
+      "date": "Oct 5, 2026",
+      "desc": "Artificial intelligence is being harnessed to tackle the document review that determines whether a transaction moves forward, one of the most manual parts of…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Barclays ramps up use of Anthropic's Claude",
-      "link": "https://www.finextra.com/newsarticle/48519/barclays-ramps-up-use-of-anthropics-claude?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 2, 2026",
-      "desc": "Barclays is extending its use of Anthropic's Claude in an effort to accelerate software development, modernise its legacy systems and boost operational…",
+      "title": "EBAday 2027 moves to Rome: Early bird registration now open",
+      "link": "https://www.finextra.com/newsarticle/48522/ebaday-2027-moves-to-rome-early-bird-registration-now-open?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Oct 5, 2026",
+      "desc": "The annual two-day summit for payments and transaction banking professionals hosted by the Euro Banking Association (EBA) and Finextra, returns for its 22nd…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
