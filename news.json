@@ -1,11 +1,27 @@
 {
-  "updated": "Oct 16, 2026 at 12:46 UTC",
+  "updated": "Oct 17, 2026 at 11:48 UTC",
   "articles": [
     {
-      "title": "Agentic Payments Are About to Break the Meaning of an Authorized Transaction",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/agentic-payments-redefine-authorized-transaction/",
+      "title": "Luxury Shoppers Put Their Money Where Their Feet Are",
+      "link": "https://www.pymnts.com/news/retail/2026/luxury-shoppers-put-money-where-their-feet-are/",
+      "date": "Oct 17, 2026",
+      "desc": "A banana-shaped heel is an unusual place to look for evidence of consumer spending discipline. But in luxury retail, financial restraint can apparently come…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "BofA called in 1000 contractors to patch flaws found by Mythos",
+      "link": "https://www.finextra.com/newsarticle/48600/bofa-called-in-1000-contractors-to-patch-flaws-found-by-mythos?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Oct 16, 2026",
-      "desc": "Watch more: Before AI Moves Money, It Must Earn Authority Agentic commerce has a payments problem hiding in plain sight. The financial system does not yet have…",
+      "desc": "Bank of America brought in 1000 contractors to support 3000 internal staff to patch software flaws uncovered by Anthropic's Mythos model earlier this year.",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "New York Fed Finds Surging Costs Turn Executive Outlook Negative",
+      "link": "https://www.pymnts.com/economy/2026/new-york-fed-finds-surging-costs-turn-executive-outlook-negative/",
+      "date": "Oct 16, 2026",
+      "desc": "Service sector firms in New York State and nearby areas became pessimistic about the business outlook in early October, for the first time since December 2025,…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -18,10 +34,10 @@
       "cssClass": "source-finextra"
     },
     {
-      "title": "UPS Capital Uses AI to Stop Holiday Delivery Disasters",
-      "link": "https://www.pymnts.com/news/delivery/2026/ups-capital-uses-ai-to-stop-holiday-delivery-disasters/",
+      "title": "Acorns Acquires Frich to Scale Financial Education",
+      "link": "https://www.pymnts.com/news/acquiring/2026/acorns-acquires-frich-to-scale-financial-education/",
       "date": "Oct 16, 2026",
-      "desc": "Watch more: Digital Shift with UPS Capital’s Ashley Hillman One of the most stressful situations for holiday shoppers is opening the door to find nothing there…",
+      "desc": "Acorns has expanded its financial education community by acquiring Frich, the company said in a Wednesday (Oct. 14) press release. Frich is a community where…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -30,22 +46,6 @@
       "link": "https://www.finextra.com/newsarticle/48598/ecb-approves-unicredits-bid-for-control-of-commerzbank?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Oct 16, 2026",
       "desc": "Italian bank Unicredit has secured approval from the European Central Bank (ECB) to take a controlling stake in Germany's Commerzbank.",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "Scams Capture 22.4% of Fraud Dollars as Banks Adjust Defenses",
-      "link": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/scams-capture-22-4percent-of-fraud-dollars-as-banks-adjust-defenses/",
-      "date": "Oct 16, 2026",
-      "desc": "Banks have an opportunity to strengthen fraud prevention by looking more closely at payments that arrive with a valid login or a customer’s approval. That’s…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "EBAday 2027: Fintech Zone applications now open",
-      "link": "https://www.finextra.com/newsarticle/48595/ebaday-2027-fintech-zone-applications-now-open?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 16, 2026",
-      "desc": "Are you an early-stage fintech ready to put your innovation in front of Europe's leading banking and payments executives?",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
