@@ -1,51 +1,51 @@
 {
-  "updated": "Oct 19, 2026 at 15:04 UTC",
+  "updated": "Oct 20, 2026 at 13:06 UTC",
   "articles": [
     {
-      "title": "UK’s FCA Plans Regulatory Framework for Agentic Finance",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/united-kingdom-financial-conduct-authority-plans-regulatory-framework-agentic-finance/",
-      "date": "Oct 19, 2026",
-      "desc": "The United Kingdom’s Financial Conduct Authority plans to develop a framework for agentic finance that encompasses agent identity, delegated authority,…",
+      "title": "Boost Turns to Airwallex to Enhance B2B Payments Capabilities",
+      "link": "https://www.pymnts.com/news/b2b-payments/2026/boost-turns-to-airwallex-to-enhance-b2b-payments-capabilities/",
+      "date": "Oct 20, 2026",
+      "desc": "B2B payments company Boost Payments Solutions has launched a partnership with financial operating system Airwallex. The collaboration is designed to enhance…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "JP Morgan brings JPM Coin to Ethereum",
-      "link": "https://www.finextra.com/newsarticle/48607/jp-morgan-brings-jpm-coin-to-ethereum?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 19, 2026",
-      "desc": "JP Morgan has brought its deposit token product, JPM Coin, to the Ethereum layer 1 blockchain network.",
+      "title": "Visa pilots AI agent payments between buyer and supplier platforms",
+      "link": "https://www.finextra.com/newsarticle/48610/visa-pilots-ai-agent-payments-between-buyer-and-supplier-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Oct 20, 2026",
+      "desc": "Visa has joined forces with Bill and Billtrust to launch the first live pilot to enable trusted AI agents to initiate and complete approved buyer invoice…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Hackers Use AI Agents to Do Hacking for Them",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/hackers-use-ai-agents-to-do-hacking-for-them/",
-      "date": "Oct 19, 2026",
-      "desc": "New research shows the growing use of AI-powered hacking systems in cybercrime operations. The trend was uncovered in an investigation by cybersecurity…",
+      "title": "Visa Launches Agentic Payments Pilot With BILL and Billtrust",
+      "link": "https://www.pymnts.com/partnerships/2026/visa-launches-agentic-payments-pilot-with-bill-and-billtrust/",
+      "date": "Oct 20, 2026",
+      "desc": "Visa has launched an agentic payments partnership with accounts payable and receivable solutions providers BILL and Billtrust. The collaboration is the first…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "EPC to create EU Digital Identity Wallet framework for PSPs",
-      "link": "https://www.finextra.com/newsarticle/48606/epc-to-create-eu-digital-identity-wallet-framework-for-psps?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 19, 2026",
-      "desc": "The European Payments Council (EPC) has greenlit work on a standardisation framework designed to support the consistent acceptance of EU Digital Identity…",
+      "title": "Google Cloud outage disrupts multiple bank sites",
+      "link": "https://www.finextra.com/newsarticle/48615/google-cloud-outage-disrupts-multiple-bank-sites?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Oct 20, 2026",
+      "desc": "HSBC, Revolut, Lloyds and Bank of Scotland are among some of the banks reported to have been affected by a major outage at Google Cloud",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "TikTok Turns to Shoplazza to Power Agentic Commerce Offering",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/tiktok-turns-to-shoplazza-to-power-agentic-commerce-offering/",
-      "date": "Oct 19, 2026",
-      "desc": "Commerce operating system Shoplazza says it is teaming with TikTok to “support new agentic commerce shopping experiences.” The collaboration is designed to…",
+      "title": "Nacha Says Faster Payment Demand Drives 37% Surge in Same Day ACH Volume",
+      "link": "https://www.pymnts.com/news/payment-methods/2026/nacha-says-faster-payment-demand-drives-37-surge-in-same-day-ach-volume/",
+      "date": "Oct 20, 2026",
+      "desc": "Same Day ACH saw year-over-year increases of about 37% in volume and 32% in value in the third quarter as it met user demand for faster payments, Nacha said in…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Huntington Bank partners Google Cloud for AI-powered small business operating system",
-      "link": "https://www.finextra.com/newsarticle/48601/huntington-bank-partners-google-cloud-for-ai-powered-small-business-operating-system?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 19, 2026",
-      "desc": "The Huntington National Bank has unveiled an AI-powered operating system built with Google Cloud’s Gemini Enterprise platform.",
+      "title": "NAB cuts 2,500 jobs citing \"technological change\"",
+      "link": "https://www.finextra.com/newsarticle/48614/nab-cuts-2500-jobs-citing-technological-change?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Oct 20, 2026",
+      "desc": "National Australia Bank (NAB) is to axe 2,500 employees in its latest restructuring, equivalent to 6% of the workforce",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
