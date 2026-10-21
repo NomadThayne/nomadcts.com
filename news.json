@@ -1,51 +1,51 @@
 {
-  "updated": "Oct 20, 2026 at 13:06 UTC",
+  "updated": "Oct 21, 2026 at 13:17 UTC",
   "articles": [
     {
-      "title": "Boost Turns to Airwallex to Enhance B2B Payments Capabilities",
-      "link": "https://www.pymnts.com/news/b2b-payments/2026/boost-turns-to-airwallex-to-enhance-b2b-payments-capabilities/",
-      "date": "Oct 20, 2026",
-      "desc": "B2B payments company Boost Payments Solutions has launched a partnership with financial operating system Airwallex. The collaboration is designed to enhance…",
+      "title": "Visa Debuts Tools to Keep Fraud Out of Virtual Commercial Card Payments",
+      "link": "https://www.pymnts.com/news/b2b-payments/2026/visa-debuts-tools-to-keep-fraud-out-of-virtual-commercial-card-payments/",
+      "date": "Oct 21, 2026",
+      "desc": "Visa has introduced new capabilities designed to keep commercial virtual card payments safer. Visa Commercial Fraud Solutions are part of a series of new…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Visa pilots AI agent payments between buyer and supplier platforms",
-      "link": "https://www.finextra.com/newsarticle/48610/visa-pilots-ai-agent-payments-between-buyer-and-supplier-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 20, 2026",
-      "desc": "Visa has joined forces with Bill and Billtrust to launch the first live pilot to enable trusted AI agents to initiate and complete approved buyer invoice…",
+      "title": "Standard Chartered to acquire Zodia Custody",
+      "link": "https://www.finextra.com/newsarticle/48627/standard-chartered-to-acquire-zodia-custody?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Oct 21, 2026",
+      "desc": "UK bank and global custodian Standard Chartered is set to acquire digital assets service provider Zodia Custody.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Visa Launches Agentic Payments Pilot With BILL and Billtrust",
-      "link": "https://www.pymnts.com/partnerships/2026/visa-launches-agentic-payments-pilot-with-bill-and-billtrust/",
-      "date": "Oct 20, 2026",
-      "desc": "Visa has launched an agentic payments partnership with accounts payable and receivable solutions providers BILL and Billtrust. The collaboration is the first…",
+      "title": "JPMorgan Gets Closer to Clinching Nigerian Banking License",
+      "link": "https://www.pymnts.com/news/banking/2026/jpmorgan-gets-closer-to-securing-nigerian-banking-license/",
+      "date": "Oct 21, 2026",
+      "desc": "J.P. Morgan Chase is reportedly getting closer to obtaining a banking license in Nigeria. The largest U.S. bank has deposited 50 billion naira ($37.5 million)…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Google Cloud outage disrupts multiple bank sites",
-      "link": "https://www.finextra.com/newsarticle/48615/google-cloud-outage-disrupts-multiple-bank-sites?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 20, 2026",
-      "desc": "HSBC, Revolut, Lloyds and Bank of Scotland are among some of the banks reported to have been affected by a major outage at Google Cloud",
+      "title": "Bank bosses under pressure to implement AI ahead of time",
+      "link": "https://www.finextra.com/newsarticle/48626/bank-bosses-under-pressure-to-implement-ai-ahead-of-time?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Oct 21, 2026",
+      "desc": "The vast majority of bank bosses in the UK and Ireland feel they are being pressured to implement AI technology more quickly than they feel is comfortable.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Nacha Says Faster Payment Demand Drives 37% Surge in Same Day ACH Volume",
-      "link": "https://www.pymnts.com/news/payment-methods/2026/nacha-says-faster-payment-demand-drives-37-surge-in-same-day-ach-volume/",
-      "date": "Oct 20, 2026",
-      "desc": "Same Day ACH saw year-over-year increases of about 37% in volume and 32% in value in the third quarter as it met user demand for faster payments, Nacha said in…",
+      "title": "Stablecoins Need to Get Behind Cards, Not Replace Them",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/stablecoins-must-get-behind-cards-not-replace-them/",
+      "date": "Oct 21, 2026",
+      "desc": "Watch more: Paymentology Says AI Agents Must Earn the Right to Move Money The stablecoin industry has spent possibly too much time trying to reinvent checkout.…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "NAB cuts 2,500 jobs citing \"technological change\"",
-      "link": "https://www.finextra.com/newsarticle/48614/nab-cuts-2500-jobs-citing-technological-change?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 20, 2026",
-      "desc": "National Australia Bank (NAB) is to axe 2,500 employees in its latest restructuring, equivalent to 6% of the workforce",
+      "title": "India's largest bank hit by cyberattack",
+      "link": "https://www.finextra.com/newsarticle/48625/indias-largest-bank-hit-by-cyberattack?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Oct 21, 2026",
+      "desc": "State Bank of India (SBI), the country's largest lending institution by assets, has launched an internal investigation after an alleged cyberattack exposed…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
