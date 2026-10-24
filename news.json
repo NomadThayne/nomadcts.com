@@ -1,11 +1,27 @@
 {
-  "updated": "Oct 23, 2026 at 12:55 UTC",
+  "updated": "Oct 24, 2026 at 12:17 UTC",
   "articles": [
     {
-      "title": "92% See AP Automation as a Way to Move Beyond Routine Tasks",
-      "link": "https://www.pymnts.com/back-office/next-gen-ap-automation/2026/92-percent-see-ap-automation-as-a-way-to-move-beyond-routine-tasks/",
+      "title": "Who You Gonna Call? The Librarian.",
+      "link": "https://www.pymnts.com/pymnts-features/the-weekender/2026/who-you-gonna-call-the-librarian/",
+      "date": "Oct 24, 2026",
+      "desc": "If something strange is happening in your neighborhood this Halloween, you might want to call the librarian. Concord Public Library in New Hampshire is…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "Thailand and Malaysia back Singapore's BLOOM cross-border digital money initiative",
+      "link": "https://www.finextra.com/newsarticle/48641/thailand-and-malaysia-back-singapores-bloom-cross-border-digital-money-initiative?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Oct 23, 2026",
-      "desc": "Businesses looking to automate supplier payments are giving technology teams a bigger say in purchasing decisions, and the reason starts with a practical…",
+      "desc": "The central banks Thailand and Malaysia are backing a Monetary Authority of Singapore-led public-private sector initiative to advance cross-border settlement…",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "American Express Expands Travel Platform With Airbnb Integration",
+      "link": "https://www.pymnts.com/transportation/travel-payments/2026/american-express-expands-travel-platform-with-airbnb-integration/",
+      "date": "Oct 24, 2026",
+      "desc": "American Express and Airbnb have announced a partnership that will offer eligible American Express U.S. Card Members more choices of places to stay when…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -18,10 +34,10 @@
       "cssClass": "source-finextra"
     },
     {
-      "title": "AI Shifts Underwriting From the Person to the Purchase",
-      "link": "https://www.pymnts.com/loans/2026/ai-shifts-underwriting-from-the-person-to-the-purchase/",
-      "date": "Oct 23, 2026",
-      "desc": "The credit score has a strange blind spot. It knows a lot about the borrower and almost nothing about what the borrower is about to buy. And as latest…",
+      "title": "Fiserv Appoints Mastercard Senior Strategic Advisor Raj Seshadri to Board",
+      "link": "https://www.pymnts.com/personnel/2026/fiserv-appoints-mastercard-senior-strategic-advisor-raj-seshadri-to-board/",
+      "date": "Oct 24, 2026",
+      "desc": "Fiserv has announced that Raj Seshadri, senior strategic advisor to the CEO of Mastercard, will join Fiserv’s board of directors and enhance its collective…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -30,22 +46,6 @@
       "link": "https://www.finextra.com/newsarticle/48639/us-fintech-coast-secures-35m-for-physical-economy-payments-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Oct 23, 2026",
       "desc": "New York-based startup Coast has raised $35m for the launch of a payment platform designed to support companies working in the physical economy.",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "Enova Tops $1 Billion Quarterly Revenue as Online Lending Surges",
-      "link": "https://www.pymnts.com/consumer-insights/2026/enova-tops-1-billion-quarterly-revenue-as-online-lending-surges/",
-      "date": "Oct 23, 2026",
-      "desc": "Online lender Enova saw its revenue exceed $1 billion during a quarter for the first time in its history in the third quarter, with strong growth across its…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "HSBC launches first stablecoin",
-      "link": "https://www.finextra.com/newsarticle/48638/hsbc-launches-first-stablecoin?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 23, 2026",
-      "desc": "Global bank HSBC has launched RedCoin, its first stablecoin, for public use.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
