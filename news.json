@@ -1,51 +1,51 @@
 {
-  "updated": "Oct 27, 2026 at 13:41 UTC",
+  "updated": "Oct 28, 2026 at 14:37 UTC",
   "articles": [
     {
-      "title": "Revolut’s Product Approvals Face UK Regulatory Scrutiny",
-      "link": "https://www.pymnts.com/news/banking/2026/revoluts-product-approvals-face-uk-regulatory-scrutiny/",
-      "date": "Oct 27, 2026",
-      "desc": "British regulators are reportedly reviewing Revolut’s process for approving new products. The Bank of England’s Prudential Regulation Authority (PRA)  issued…",
+      "title": "Hummingbird Buys Quantimon to Prioritize High-Risk AML Alerts",
+      "link": "https://www.pymnts.com/legal/aml/2026/hummingbird-buys-quantimon-to-prioritize-high-risk-aml-alerts/",
+      "date": "Oct 28, 2026",
+      "desc": "Hummingbird has deepened its investment in transaction monitoring by acquiring Quantimon, the company said in a Wednesday (Oct. 28) press release. The…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Nature loss threatens 140 million jobs across Europe",
-      "link": "https://www.finextra.com/newsarticle/48644/nature-loss-threatens-140-million-jobs-across-europe?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 27, 2026",
-      "desc": "Data from Global Canopy revealed that nature loss could put 140 million jobs across the EU, UK, and Switzerland at risk, equivalent to 60% of the workforce in…",
+      "title": "Coinbase says customer contact data exposed in third-party breach",
+      "link": "https://www.finextra.com/newsarticle/48662/coinbase-says-customer-contact-data-exposed-in-third-party-breach?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Oct 28, 2026",
+      "desc": "Crypto exchange Coinbase says a security incident at a third-party vendor exposed some customer contact data but that its own systems were not breached.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Fraudsters Leave Patterns, and AWS Wants AI to Follow Them",
-      "link": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/fraudsters-leave-patterns-and-aws-wants-ai-to-follow-them/",
-      "date": "Oct 27, 2026",
-      "desc": "Fraud attacks can now be assembled with commercially packaged software, distributed across accounts and devices, and altered faster than banks can rewrite a…",
+      "title": "Tech Companies Battle Infestation of AI-Discovered Bugs",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/tech-companies-battle-infestation-of-ai-discovered-bugs/",
+      "date": "Oct 28, 2026",
+      "desc": "Tech companies are reportedly spending more time and resources dealing with bugs uncovered by artificial intelligence (AI). That’s according to a report…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Mastercard targets creators via MrBeast partnership",
-      "link": "https://www.finextra.com/newsarticle/48650/mastercard-targets-creators-via-mrbeast-partnership?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 27, 2026",
-      "desc": "Mastercard is targeting the creator community through a partnership with Beast Industries, the company founded by YouTube superstar MrBeast.",
+      "title": "Wealthsimple hits C$13.8bn valuation",
+      "link": "https://www.finextra.com/newsarticle/48661/wealthsimple-hits-c138bn-valuation?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Oct 28, 2026",
+      "desc": "Canada's Wealthsimple has raised C$425 million at a post-money valuation of C$13.8 billion (about $9.8 billion).",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Tungsten Automation Says Scale Will Keep Humans in the Payment Loop",
-      "link": "https://www.pymnts.com/back-office/next-gen-ap-automation/2026/tungsten-automation-says-scale-will-keep-humans-in-the-payment-loop/",
-      "date": "Oct 27, 2026",
-      "desc": "Watch more: What’s Next in Payments With Tungsten Automation’s Emily Nash-Walker A company can automate routine supplier payments while requiring human…",
+      "title": "Coinbase Customer Data Exposed in Vendor’s Breach",
+      "link": "https://www.pymnts.com/cybersecurity/2026/coinbase-customer-data-exposed-in-vendors-breach/",
+      "date": "Oct 28, 2026",
+      "desc": "Coinbase says customer contact data was impacted in a breach at one of its vendors. The cryptocurrency exchange acknowledged the incident late Tuesday (Oct.…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "CapitalOS raises $21.9m for money orchestration layer for B2B platforms",
-      "link": "https://www.finextra.com/newsarticle/48652/capitalos-raises-219m-for-money-orchestration-layer-for-b2b-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 27, 2026",
-      "desc": "CapitalOS, a money orchestration layer for B2B platforms, has raised $21.9 million in Series A funding.",
+      "title": "NatWest slashes marketing compliance approval times with Adclear agents",
+      "link": "https://www.finextra.com/newsarticle/48660/natwest-slashes-marketing-compliance-approval-times-with-adclear-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Oct 28, 2026",
+      "desc": "NatWest has brought in AI agents from Adclear to overhaul how compliance is embedded across its marketing and communications operations, slashing approval…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
