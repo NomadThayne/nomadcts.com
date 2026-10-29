@@ -1,51 +1,51 @@
 {
-  "updated": "Oct 28, 2026 at 14:37 UTC",
+  "updated": "Oct 29, 2026 at 14:43 UTC",
   "articles": [
     {
-      "title": "Hummingbird Buys Quantimon to Prioritize High-Risk AML Alerts",
-      "link": "https://www.pymnts.com/legal/aml/2026/hummingbird-buys-quantimon-to-prioritize-high-risk-aml-alerts/",
-      "date": "Oct 28, 2026",
-      "desc": "Hummingbird has deepened its investment in transaction monitoring by acquiring Quantimon, the company said in a Wednesday (Oct. 28) press release. The…",
+      "title": "AI Is Stepping Up to Care for the Elderly",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-is-stepping-up-to-care-for-the-elderly/",
+      "date": "Oct 29, 2026",
+      "desc": "Most people do not think about elder care until they have to. Then they find out how expensive it is, how hard to access, and how much of it falls on whoever…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Coinbase says customer contact data exposed in third-party breach",
-      "link": "https://www.finextra.com/newsarticle/48662/coinbase-says-customer-contact-data-exposed-in-third-party-breach?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 28, 2026",
-      "desc": "Crypto exchange Coinbase says a security incident at a third-party vendor exposed some customer contact data but that its own systems were not breached.",
+      "title": "CIBC rolls out Thought Machine core platform",
+      "link": "https://www.finextra.com/newsarticle/48668/cibc-rolls-out-thought-machine-core-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Oct 29, 2026",
+      "desc": "UK core banking fintech Thought Machine has signed CIBC as its latest Tier 1 client, revealing that the Canadian giant is also the lender behind a previously…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Tech Companies Battle Infestation of AI-Discovered Bugs",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/tech-companies-battle-infestation-of-ai-discovered-bugs/",
-      "date": "Oct 28, 2026",
-      "desc": "Tech companies are reportedly spending more time and resources dealing with bugs uncovered by artificial intelligence (AI). That’s according to a report…",
+      "title": "Carvana Embraces Agentic Commerce as Revenues Jump 42%",
+      "link": "https://www.pymnts.com/earnings/2026/carvana-embraces-agentic-commerce-as-revenues-jump-42percent/",
+      "date": "Oct 29, 2026",
+      "desc": "Carvana is hoping to reap the benefits of agentic commerce as it enjoys record revenues. The online used vehicle marketplace reported quarterly…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Wealthsimple hits C$13.8bn valuation",
-      "link": "https://www.finextra.com/newsarticle/48661/wealthsimple-hits-c138bn-valuation?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 28, 2026",
-      "desc": "Canada's Wealthsimple has raised C$425 million at a post-money valuation of C$13.8 billion (about $9.8 billion).",
+      "title": "Crypto exchange HTX to leave UK after FCA lawsuit",
+      "link": "https://www.finextra.com/newsarticle/48667/crypto-exchange-htx-to-leave-uk-after-fca-lawsuit?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Oct 29, 2026",
+      "desc": "The UK's Financial Conduct Authority has secured a High Court order preventing crypto exchange HTX from ‌knowingly promoting cryptoasset services unlawfully to…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Coinbase Customer Data Exposed in Vendor’s Breach",
-      "link": "https://www.pymnts.com/cybersecurity/2026/coinbase-customer-data-exposed-in-vendors-breach/",
-      "date": "Oct 28, 2026",
-      "desc": "Coinbase says customer contact data was impacted in a breach at one of its vendors. The cryptocurrency exchange acknowledged the incident late Tuesday (Oct.…",
+      "title": "Collective’s AI Back Office Gives Solo Business Owners Time Back",
+      "link": "https://www.pymnts.com/back-office/2026/collectives-ai-back-office-gives-solo-business-owners-time-back/",
+      "date": "Oct 29, 2026",
+      "desc": "Watch more: Need to Know With Collective’s Hooman Radfar Hooman Radfar is building Collective for business owners who are also the people doing the work. A…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "NatWest slashes marketing compliance approval times with Adclear agents",
-      "link": "https://www.finextra.com/newsarticle/48660/natwest-slashes-marketing-compliance-approval-times-with-adclear-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 28, 2026",
-      "desc": "NatWest has brought in AI agents from Adclear to overhaul how compliance is embedded across its marketing and communications operations, slashing approval…",
+      "title": "Idemia prepares payment cards for quantum threats with EMVCo certification",
+      "link": "https://www.finextra.com/newsarticle/48666/idemia-prepares-payment-cards-for-quantum-threats-with-emvco-certification?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Oct 29, 2026",
+      "desc": "Becoming the first company to achieve EMVCo certification for a payment card platform that provides access to post-quantum cryptography (PQC) and…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
