@@ -1,11 +1,43 @@
 {
-  "updated": "Oct 30, 2026 at 14:39 UTC",
+  "updated": "Oct 31, 2026 at 13:58 UTC",
   "articles": [
     {
-      "title": "AI Startups Claw Back Traveler Refunds When Airline Fares Drop",
-      "link": "https://www.pymnts.com/transportation/travel-payments/2026/ai-startups-claw-back-traveler-refunds-when-airline-fares-drop/",
+      "title": "Luxury Mystery Boxes Turn Shopping Into a $500 Surprise",
+      "link": "https://www.pymnts.com/news/retail/2026/luxury-mystery-boxes-turn-shopping-into-500-dollar-surprise/",
+      "date": "Oct 31, 2026",
+      "desc": "Luxury shopping has developed a new answer to “What did you buy?” “I’ll know in a moment.” Beezie, a platform that combines collectibles with digital…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "PE firm CD&R targets buyout of $40bn Global Payments - FT",
+      "link": "https://www.finextra.com/newsarticle/48681/pe-firm-cdr-targets-buyout-of-40bn-global-payments---ft?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Oct 30, 2026",
-      "desc": "Three startups are helping travelers save on airfare when there is a price drop after they’ve already purchased a ticket, Reuters reported Friday (Oct. 30).…",
+      "desc": "Global Payments, the payments processor with an enterprise value of around $40 billion, is an acquisition target for private equity firm CD&amp;R, according to…",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "Snack Giant Mondelez Says Inflation Pressure Drives Global Demand for Smaller Packs",
+      "link": "https://www.pymnts.com/earnings/2026/snack-giant-mondelez-says-inflation-pressure-drives-global-demand-for-smaller-packs/",
+      "date": "Oct 31, 2026",
+      "desc": "Mondelez International saw broad-based demand for its snack foods in the third quarter, despite concerns about inflation and the cost of living in both…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "Kipp acquired by LTVCo-led investor group for US push",
+      "link": "https://www.finextra.com/newsarticle/48679/kipp-acquired-by-ltvco-led-investor-group-for-us-push?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Oct 30, 2026",
+      "desc": "Kipp, a Tel Aviv-headquartered fintech platform connecting card issuers and merchants to approve more transactions, has been acquired by an investor group…",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "Samsung Warns AI Memory Shortage Will Worsen Through 2027",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/samsung-warns-ai-memory-shortage-will-worsen-through-2027/",
+      "date": "Oct 30, 2026",
+      "desc": "Samsung expects the demand for memory to “far exceed” supply in 2027, the company said in a Thursday (Oct. 29) press release announcing its third quarter…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -14,38 +46,6 @@
       "link": "https://www.finextra.com/newsarticle/48678/ecb-picks-digital-euro-network-service-providers?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Oct 30, 2026",
       "desc": "The European Central Bank has selected two network service providers to connect PSPs and national central banks to the digital euro service platform.",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "Amazon Wins 59% of AI-Assisted Purchases as Checkout Becomes the Prize",
-      "link": "https://www.pymnts.com/commerce/ecommerce/2026/amazon-wins-59percent-ai-assisted-purchases-as-checkout-becomes-the-prize/",
-      "date": "Oct 30, 2026",
-      "desc": "Generative artificial intelligence (AI) is doing something that years of retail competition struggled to accomplish. It is teaching consumers to start shopping…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "Sustainable Finance Live: Wonky Harvest and Lloyds Banking Group win 2026 Hackathon",
-      "link": "https://www.finextra.com/newsarticle/48677/sustainable-finance-live-wonky-harvest-and-lloyds-banking-group-win-2026-hackathon?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 30, 2026",
-      "desc": "Team 8: Wonky Harvest and Team 9: Lloyds Banking Group have been crowned the winners of the Sustainable Finance Hackathon 2026.",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "Hackers Steal $6.3 Billion From Binance in Record Crypto Heist",
-      "link": "https://www.pymnts.com/cybersecurity/2026/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
-      "date": "Oct 30, 2026",
-      "desc": "Hackers have stolen $6.3 billion from Binance, the world’s largest cryptocurrency exchange, in the biggest crypto theft ever. The attack breaks the previous…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "Apple Pay and Google Pay launch in Uzbekistan",
-      "link": "https://www.finextra.com/newsarticle/48676/apple-pay-and-google-pay-launch-in-uzbekistan?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Oct 30, 2026",
-      "desc": "Uzbekistan has announced the arrival of Apple Pay and Google Pay into its banking system as the central Asian nation looks to open up its financial services.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
