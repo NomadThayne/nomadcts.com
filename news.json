@@ -1,51 +1,51 @@
 {
-  "updated": "Nov 5, 2026 at 15:52 UTC",
+  "updated": "Nov 6, 2026 at 15:26 UTC",
   "articles": [
     {
-      "title": "Binance Heist Triggers Alarm Among Banking Regulators",
-      "link": "https://www.pymnts.com/legal/bank-regulation/2026/binance-heist-triggers-alarm-among-banking-regulators/",
-      "date": "Nov 5, 2026",
-      "desc": "Last week’s record hack of cryptocurrency exchange Binance prompted regulators in the United States to check in with the country’s banks, Reuters reported…",
+      "title": "Aave Labs Acquires Avon Tech to Take On-Chain Lending Mainstream",
+      "link": "https://www.pymnts.com/blockchain/2026/aave-labs-acquires-avon-tech-to-take-on-chain-lending-mainstream/",
+      "date": "Nov 6, 2026",
+      "desc": "Aave Labs has acquired the team and technology behind Avon to further its efforts to bring on-chain lending to a mainstream audience, Aave Labs said in a…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Block faces $765m DoJ settlement",
-      "link": "https://www.finextra.com/newsarticle/48709/block-faces-765m-doj-settlement?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Nov 5, 2026",
-      "desc": "Block has reached a preliminary settlement with the US Department of Justice that could see Jack Dorsey's firm pay $764 million over money laundering failures.",
+      "title": "Claude gets personal finance tool",
+      "link": "https://www.finextra.com/newsarticle/48717/claude-gets-personal-finance-tool?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Nov 6, 2026",
+      "desc": "Anthropic has unveiled a personal finance tool for Claude that lets users connect their bank and card accounts to get answers to questions about their money.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Klarna Targets Scam Calls With New Verification Tool",
-      "link": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/klarna-targets-scam-calls-with-new-verification-tool/",
-      "date": "Nov 5, 2026",
-      "desc": "Pay later and digital finance firm Klarna made its anti-scam call tool, Call Status Detection, live worldwide, according to a Thursday (Nov. 5) press release.…",
+      "title": "Fraud Costs Financial Institutions More Than Money",
+      "link": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/fraud-costs-financial-institutions-more-than-money/",
+      "date": "Nov 6, 2026",
+      "desc": "A card issuer can give an artificial intelligence shopping assistant permission to buy a customer’s groceries without giving it a card number it could use to…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Early Revolut employees open waitlist for wealth AI startup Haido",
-      "link": "https://www.finextra.com/newsarticle/48706/early-revolut-employees-open-waitlist-for-wealth-ai-startup-haido?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Nov 5, 2026",
-      "desc": "A pair of early Revolut employees has opened the waitlist for their new venture, an AI wealth company that has secured backing from UK fintech heavyweights…",
+      "title": "Monzo eyes fresh funding at £7.5bn valuation - FT",
+      "link": "https://www.finextra.com/newsarticle/48715/monzo-eyes-fresh-funding-at-75bn-valuation---ft?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Nov 6, 2026",
+      "desc": "After a takeover by Brazil's Nubank failed to materialise, Monzo is exploring a new funding round that would value the UK digital bank at around £7.5 billion,…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     },
     {
-      "title": "Firmly Lands $15 Million as Investors Back the Merchant Side of Agentic Commerce",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/firmly-lands-15-million-dollars-investors-back-merchant-side-agentic-commerce/",
-      "date": "Nov 5, 2026",
-      "desc": "Artificial intelligence agents are becoming a new place to shop faster than merchants can plug into them. Analysts expect AI-driven traffic to retail sites in…",
+      "title": "Why Data Access Isn’t Enough for AI Readiness",
+      "link": "https://www.pymnts.com/opinion/2026/why-data-access-isnt-enough-for-ai-readiness/",
+      "date": "Nov 6, 2026",
+      "desc": "Connecting artificial intelligence to a knowledge base is only the starting point for AI readiness, i2c VP of Operations Pam Guinn writes in a new PYMNTS…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
     {
-      "title": "Kalepa raises $75m to expand AI underwriting platform",
-      "link": "https://www.finextra.com/newsarticle/48707/kalepa-raises-75m-to-expand-ai-underwriting-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Nov 5, 2026",
-      "desc": "Insurance AI firm Kalepa has raised $75 million in Series B funding at a $470 million valuation, as it looks to expand its AI platform across the insurance…",
+      "title": "FATF report identifies practical approaches for disrupting scam compounds",
+      "link": "https://www.finextra.com/newsarticle/48714/fatf-report-identifies-practical-approaches-for-disrupting-scam-compounds?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "Nov 6, 2026",
+      "desc": "According to the FATF, the rate of fraud has grown in recent years, catalysed by increased online exposure, digital innovation, and as a result of the Covid-19…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
