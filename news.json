@@ -1,11 +1,27 @@
 {
-  "updated": "Nov 6, 2026 at 15:26 UTC",
+  "updated": "Nov 7, 2026 at 14:28 UTC",
   "articles": [
     {
-      "title": "Aave Labs Acquires Avon Tech to Take On-Chain Lending Mainstream",
-      "link": "https://www.pymnts.com/blockchain/2026/aave-labs-acquires-avon-tech-to-take-on-chain-lending-mainstream/",
+      "title": "Black Friday Escapes the Calendar and Heads for Your Wallet",
+      "link": "https://www.pymnts.com/news/retail/2026/black-friday-escapes-calendar-moves-toward-your-wallet/",
+      "date": "Nov 7, 2026",
+      "desc": "Black Friday has developed a scheduling problem. It keeps arriving before Friday. The official date this year is Nov. 27, followed by Cyber Monday on Nov. 30.…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "JPMorgan Chase signs cybersecurity and coding deal with OpenAI",
+      "link": "https://www.finextra.com/newsarticle/48718/jpmorgan-chase-signs-cybersecurity-and-coding-deal-with-openai?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Nov 6, 2026",
-      "desc": "Aave Labs has acquired the team and technology behind Avon to further its efforts to bring on-chain lending to a mainstream audience, Aave Labs said in a…",
+      "desc": "JPMorgan Chase has formed a strategic partnership with OpenAI for use of the AI lab's coding and cybersecurity models.",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "Revolving Debt Jumps as Spending Strains Credit Cards",
+      "link": "https://www.pymnts.com/economy/2026/revolving-debt-jumps-as-spending-strains-credit-cards/",
+      "date": "Nov 6, 2026",
+      "desc": "The fastest-growing part of consumer credit in September was the kind that lets a household put this week’s groceries on next month’s bill. The Federal…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -18,10 +34,10 @@
       "cssClass": "source-finextra"
     },
     {
-      "title": "Fraud Costs Financial Institutions More Than Money",
-      "link": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/fraud-costs-financial-institutions-more-than-money/",
+      "title": "BMO Turns to Agentic AI to Resolve Card Issues",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/bmo-turns-to-agentic-ai-to-resolve-card-issues/",
       "date": "Nov 6, 2026",
-      "desc": "A card issuer can give an artificial intelligence shopping assistant permission to buy a customer’s groceries without giving it a card number it could use to…",
+      "desc": "BMO is employing an artificial intelligence (AI) agent to help clients resolve credit card transaction issues. The bank’s AI Agent Assist, announced Friday…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -30,22 +46,6 @@
       "link": "https://www.finextra.com/newsarticle/48715/monzo-eyes-fresh-funding-at-75bn-valuation---ft?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Nov 6, 2026",
       "desc": "After a takeover by Brazil's Nubank failed to materialise, Monzo is exploring a new funding round that would value the UK digital bank at around £7.5 billion,…",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "Why Data Access Isn’t Enough for AI Readiness",
-      "link": "https://www.pymnts.com/opinion/2026/why-data-access-isnt-enough-for-ai-readiness/",
-      "date": "Nov 6, 2026",
-      "desc": "Connecting artificial intelligence to a knowledge base is only the starting point for AI readiness, i2c VP of Operations Pam Guinn writes in a new PYMNTS…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "FATF report identifies practical approaches for disrupting scam compounds",
-      "link": "https://www.finextra.com/newsarticle/48714/fatf-report-identifies-practical-approaches-for-disrupting-scam-compounds?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Nov 6, 2026",
-      "desc": "According to the FATF, the rate of fraud has grown in recent years, catalysed by increased online exposure, digital innovation, and as a result of the Covid-19…",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
