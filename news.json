@@ -1,11 +1,27 @@
 {
-  "updated": "Nov 13, 2026 at 15:45 UTC",
+  "updated": "Nov 14, 2026 at 14:35 UTC",
   "articles": [
     {
-      "title": "Scammers Use Stolen Cards to Fulfill Fake Dumpster Rental Ads",
-      "link": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/scammers-use-stolen-cards-to-fulfill-fake-dumpster-rental-ads/",
+      "title": "China’s Singles’ Day Sells Robots, AI Credits and a Little Help Around the House",
+      "link": "https://www.pymnts.com/news/retail/2026/china-singles-day-sells-robots-ai-credits-help-around-house/",
+      "date": "Nov 14, 2026",
+      "desc": "The real Ning Zetao showed up on a shopping livestream to flex his muscles. So did his artificial intelligence double. The former world champion swimmer was…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "OpenAI launches ChatGPT Wallet",
+      "link": "https://www.finextra.com/newsarticle/48759/openai-launches-chatgpt-wallet?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Nov 13, 2026",
-      "desc": "A homeowner pays a bogus seller but still gets the dumpster they ordered. When the stolen-card charge is reversed, the rental broker can be left with the bill…",
+      "desc": "OpenAI has unveiled ChatGPT Wallet, enabling AI agents to pay for purchases on users' behalf without accessing their card details.",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "12-Month Wholesale Inflation Reaches 4-Year High Despite October Slowdown",
+      "link": "https://www.pymnts.com/economy/2026/12-month-wholesale-inflation-reaches-4-year-high-despite-october-slowdown/",
+      "date": "Nov 14, 2026",
+      "desc": "The Producer Price Index (PPI) for final demand rose 0.3% in October after advancing 1.4% in September and 0.4% in August, the Bureau of Labor Statistics (BLS)…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -18,10 +34,10 @@
       "cssClass": "source-finextra"
     },
     {
-      "title": "Gen Z Gives Payment Perks More Weight at Grocery Checkout",
-      "link": "https://www.pymnts.com/consumer-insights/2026/gen-z-gives-payment-perks-more-weight-at-grocery-checkout/",
-      "date": "Nov 13, 2026",
-      "desc": "Gen Z grocery shoppers want a quick checkout and the freedom to use their preferred payment method. They are also more than twice as likely as baby boomers and…",
+      "title": "Amazon Expands Alexa for Shopping to 15 Countries and Lets Anyone Shop by Text",
+      "link": "https://www.pymnts.com/news/mobile-commerce/2026/amazon-expands-alexa-for-shopping-to-15-countries-and-lets-anyone-shop-by-text/",
+      "date": "Nov 14, 2026",
+      "desc": "Amazon has made Alexa for Shopping available in full across 13 countries, and in beta in two more countries, and has expanded the availability to text requests…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -30,22 +46,6 @@
       "link": "https://www.finextra.com/newsarticle/48757/lloyds-appoints-manija-poulatova-as-group-chief-security-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Nov 13, 2026",
       "desc": "Lloyds Banking Group has promoted former Googler Manija Poulatova to group chief security officer.",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "Velera Says Credit Unions Can Learn Digital Money Together",
-      "link": "https://www.pymnts.com/opinion/2026/velera-says-credit-unions-can-learn-digital-money-together/",
-      "date": "Nov 13, 2026",
-      "desc": "Credit unions and industry partners can work together to understand where digital assets could be useful, Velera SVP, Emerging Services Scott P. Young writes…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "Nvidia’s Jensen Huang steps down, interim CEO appointed as stocks plummet",
-      "link": "https://www.finextra.com/newsarticle/48756/nvidias-jensen-huang-steps-down-interim-ceo-appointed-as-stocks-plummet?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Nov 13, 2026",
-      "desc": "Nvidia CEO Jensen Huang resigned on Thursday following reports of multiple extramarital affairs, plunging company stocks.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
