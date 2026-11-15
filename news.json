@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 14, 2026 at 14:35 UTC",
+  "updated": "Nov 15, 2026 at 15:03 UTC",
   "articles": [
     {
       "title": "China’s Singles’ Day Sells Robots, AI Credits and a Little Help Around the House",
@@ -10,14 +10,6 @@
       "cssClass": "source-pymnts"
     },
     {
-      "title": "OpenAI launches ChatGPT Wallet",
-      "link": "https://www.finextra.com/newsarticle/48759/openai-launches-chatgpt-wallet?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Nov 13, 2026",
-      "desc": "OpenAI has unveiled ChatGPT Wallet, enabling AI agents to pay for purchases on users' behalf without accessing their card details.",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
       "title": "12-Month Wholesale Inflation Reaches 4-Year High Despite October Slowdown",
       "link": "https://www.pymnts.com/economy/2026/12-month-wholesale-inflation-reaches-4-year-high-despite-october-slowdown/",
       "date": "Nov 14, 2026",
@@ -26,28 +18,12 @@
       "cssClass": "source-pymnts"
     },
     {
-      "title": "German banks form financial crime fighting JV",
-      "link": "https://www.finextra.com/newsarticle/48758/german-banks-form-financial-crime-fighting-jv?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Nov 13, 2026",
-      "desc": "Commerzbank, Deutsche Bank and the German Savings Banks Association have set up  joint venture to tackle financial crime.",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
       "title": "Amazon Expands Alexa for Shopping to 15 Countries and Lets Anyone Shop by Text",
       "link": "https://www.pymnts.com/news/mobile-commerce/2026/amazon-expands-alexa-for-shopping-to-15-countries-and-lets-anyone-shop-by-text/",
       "date": "Nov 14, 2026",
       "desc": "Amazon has made Alexa for Shopping available in full across 13 countries, and in beta in two more countries, and has expanded the availability to text requests…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
-    },
-    {
-      "title": "Lloyds appoints Manija Poulatova as group chief security officer",
-      "link": "https://www.finextra.com/newsarticle/48757/lloyds-appoints-manija-poulatova-as-group-chief-security-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Nov 13, 2026",
-      "desc": "Lloyds Banking Group has promoted former Googler Manija Poulatova to group chief security officer.",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
     }
   ]
 }
