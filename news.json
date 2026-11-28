@@ -1,11 +1,27 @@
 {
-  "updated": "Nov 27, 2026 at 17:42 UTC",
+  "updated": "Nov 28, 2026 at 16:27 UTC",
   "articles": [
     {
-      "title": "Amazon, CVS and Walmart Compete to Help Patients Pick Their Care",
-      "link": "https://www.pymnts.com/healthcare/2026/amazon-cvs-and-walmart-compete-to-help-patients-pick-their-care/",
+      "title": "Small Businesses Put Big Personality Under the Tree",
+      "link": "https://www.pymnts.com/smbs/2026/small-businesses-put-big-personality-under-christmas-tree/",
+      "date": "Nov 28, 2026",
+      "desc": "Somewhere in the United States, an entrepreneur looked at an avocado and decided it should be a candle. Another looked at a closet full of Christmas sweaters…",
+      "source": "PYMNTS",
+      "cssClass": "source-pymnts"
+    },
+    {
+      "title": "Intermex sues Western Union over merger agreement termination",
+      "link": "https://www.finextra.com/newsarticle/48831/intermex-sues-western-union-over-merger-agreement-termination?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Nov 27, 2026",
-      "desc": "For a parent whose child wakes up with a red, itchy eye, the first decision used to be whether to call the pediatrician or wait until morning. Not anymore. Now…",
+      "desc": "Intermex is suing Western Union to enforce the terms of a $500 million merger agreement that the latter abandoned in the face of regulatory conditions.",
+      "source": "Finextra",
+      "cssClass": "source-finextra"
+    },
+    {
+      "title": "TrueLayer and Papa Johns Pit Pay by Bank Against Cards in Agentic Commerce",
+      "link": "https://www.pymnts.com/news/payment-methods/2026/truelayer-and-papa-johns-pit-pay-by-bank-against-cards-in-agentic-commerce/",
+      "date": "Nov 27, 2026",
+      "desc": "Pay by Bank network TrueLayer and pizza retailer Papa Johns completed a pilot that showed that an artificial intelligence (AI) agent could complete a Pay by…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -18,10 +34,10 @@
       "cssClass": "source-finextra"
     },
     {
-      "title": "AI Helps Merchants Stop Holiday Fraud Without Losing Good Customers",
-      "link": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/ai-helps-merchants-stop-holiday-fraud-without-losing-good-customers/",
+      "title": "Kalshi Promotes Prediction Market as Hedging Solution for Small Businesses",
+      "link": "https://www.pymnts.com/economy/markets/2026/kalshi-promotes-prediction-market-as-hedging-solution-for-small-businesses/",
       "date": "Nov 27, 2026",
-      "desc": "Somewhere between a retailer’s holiday advertising budget and its reported Cyber Monday sales sits a financial decision most shoppers never see. Whether…",
+      "desc": "Kalshi is promoting itself as a hedging platform for businesses to find new growth and to mitigate the legal threats to other parts of its prediction market…",
       "source": "PYMNTS",
       "cssClass": "source-pymnts"
     },
@@ -30,22 +46,6 @@
       "link": "https://www.finextra.com/newsarticle/48828/lloyds-app-goes-down?utm_medium=rssfinextra&utm_source=finextrafeed",
       "date": "Nov 27, 2026",
       "desc": "Lloyds Bank customers have been hit with another app outage leaving thousands unable to access their accounts on pay day.",
-      "source": "Finextra",
-      "cssClass": "source-finextra"
-    },
-    {
-      "title": "What a Small Business Plans to Do With a Loan Says a Lot About Its Growth",
-      "link": "https://www.pymnts.com/smbs/2026/what-a-small-business-plans-to-do-with-a-loan-says-a-lot-about-its-growth/",
-      "date": "Nov 27, 2026",
-      "desc": "A business owner might put an inventory order on a credit card to prepare for a busy season or because there’s no cash to pay the supplier. The charge looks…",
-      "source": "PYMNTS",
-      "cssClass": "source-pymnts"
-    },
-    {
-      "title": "SAP may cut 10,000 jobs to make room for AI",
-      "link": "https://www.finextra.com/newsarticle/48827/sap-may-cut-10000-jobs-to-make-room-for-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "Nov 27, 2026",
-      "desc": "German software company SAP is considering a major staff cut to prepare its business for AI transformation, Bloomberg reported yesterday.",
       "source": "Finextra",
       "cssClass": "source-finextra"
     }
